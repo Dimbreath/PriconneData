@@ -1,0 +1,18 @@
+BEGIN TRANSACTION;
+CREATE TABLE 'gacha_exchange_lineup' ('id' INTEGER NOT NULL, 'exchange_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO "gacha_exchange_lineup" VALUES(1,27,106101,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(2,28,101401,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(3,29,105501,1);
+INSERT INTO "gacha_exchange_lineup" VALUES(4,29,106301,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(5,29,101501,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(6,30,103601,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(7,30,104901,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(8,30,104401,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(9,30,100701,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(10,30,104601,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(11,30,102701,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(12,30,100301,1);
+INSERT INTO "gacha_exchange_lineup" VALUES(13,30,103401,1);
+INSERT INTO "gacha_exchange_lineup" VALUES(14,30,100101,1);
+INSERT INTO "gacha_exchange_lineup" VALUES(15,31,109201,3);
+COMMIT;

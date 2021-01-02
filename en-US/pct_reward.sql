@@ -1,0 +1,18 @@
+BEGIN TRANSACTION;
+CREATE TABLE 'pct_reward' ('id' INTEGER NOT NULL, 'pct_point_type' INTEGER NOT NULL, 'pct_point' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO "pct_reward" VALUES(1,2,10000,'シズルのお手伝いで10000ptを獲得しよう',12,94002,5000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(2,2,20000,'シズルのお手伝いで20000ptを獲得しよう',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(3,2,30000,'シズルのお手伝いで30000ptを獲得しよう',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(4,1,10000,'エリコのお手伝いで10000ptを獲得しよう',12,94002,5000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(5,1,20000,'エリコのお手伝いで20000ptを獲得しよう',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(6,1,30000,'エリコのお手伝いで30000ptを獲得しよう',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(7,0,70000,'二人のお手伝いの合計で70000pt獲得しよう',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(8,0,80000,'二人のお手伝いの合計で80000pt獲得しよう',12,94002,20000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(9,0,90000,'二人のお手伝いの合計で90000pt獲得しよう',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(10,0,100000,'二人のお手伝いの合計で100000pt獲得しよう',12,94002,30000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(11,0,110000,'二人のお手伝いの合計で110000pt獲得しよう',12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(12,0,120000,'二人のお手伝いの合計で120000pt獲得しよう',12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(13,0,130000,'二人のお手伝いの合計で130000pt獲得しよう',12,94002,45000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(14,0,150000,'二人のお手伝いの合計で150000pt獲得しよう',12,94002,50000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "pct_reward" VALUES(15,0,200000,'二人のお手伝いの合計で200000pt獲得しよう',7,1113,1,8,91002,150,2,23001,10,0,0,0,0,0,0);
+COMMIT;

@@ -1,0 +1,16 @@
+BEGIN TRANSACTION;
+CREATE TABLE 'clan_battle_schedule' ('clan_battle_id' INTEGER NOT NULL, 'release_month' INTEGER NOT NULL, 'last_clan_battle_id' INTEGER NOT NULL, 'point_per_stamina' INTEGER NOT NULL, 'cost_group_id' INTEGER NOT NULL, 'map_bgm' TEXT NOT NULL, 'resource_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('clan_battle_id'));
+INSERT INTO "clan_battle_schedule" VALUES(1001,3,0,1,1,'bgm_M90',1,'2018/03/21 5:00:00','2018/04/20 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1002,4,1001,1,1,'bgm_M97',2,'2018/04/20 5:00:00','2018/05/22 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1003,5,1002,1,1,'bgm_M104',1,'2018/05/22 5:00:00','2018/06/21 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1004,6,1003,1,1,'bgm_M115',2,'2018/06/21 5:00:00','2018/07/21 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1005,7,1004,1,1,'bgm_M119',1,'2018/07/21 5:00:00','2018/08/22 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1006,8,1005,1,1,'bgm_M132',2,'2018/08/22 5:00:00','2018/09/21 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1007,9,1006,1,1,'bgm_M139',1,'2018/09/21 5:00:00','2018/10/22 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1008,10,1007,1,1,'bgm_M166',2,'2018/10/22 5:00:00','2018/11/22 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1009,11,1008,1,1,'bgm_M175',1,'2018/11/22 5:00:00','2018/12/22 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1010,12,1009,1,1,'bgm_M181',2,'2018/12/22 5:00:00','2019/01/23 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1011,1,1010,1,1,'bgm_M186',1,'2019/01/23 5:00:00','2019/02/20 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1012,2,1011,1,1,'bgm_M205',2,'2019/02/20 5:00:00','2019/03/23 4:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1013,3,1012,1,1,'bgm_M90',1,'2019/03/23 5:00:00','2019/04/22 4:59:59');
+COMMIT;
