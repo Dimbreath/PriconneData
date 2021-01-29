@@ -20,6 +20,7 @@ INSERT INTO "unit_background" VALUES(101801,'Io Hasekura',500080,'Lucent Academy
 INSERT INTO "unit_background" VALUES(102001,'Mimi Akane',500140,'Prano Plains',0.0,2);
 INSERT INTO "unit_background" VALUES(102101,'Kurumi Kuribayashi',500110,'Sarendia Orphanage - Main Hall',0.0,5);
 INSERT INTO "unit_background" VALUES(102201,'Yori Kazemiya',500260,'Ancient Castle',0.0,4);
+INSERT INTO "unit_background" VALUES(102301,'Ayane Hojo',500110,'Sarendia Orphanage - Main Hall',0.0,4);
 INSERT INTO "unit_background" VALUES(102501,'Suzume Amano',500110,'Sarendia Orphanage - Main Hall',0.0,4);
 INSERT INTO "unit_background" VALUES(102601,'Rin Morichika',500150,'Elizabeth Park',0.0,3);
 INSERT INTO "unit_background" VALUES(102701,'Eriko Kuraishi',500050,'Landosol - Restaurant',0.0,4);

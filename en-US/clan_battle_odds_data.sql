@@ -1,15 +1,3 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'clan_battle_odds_data' ('odds_group_id' INTEGER NOT NULL, 'team_level_from' INTEGER NOT NULL, 'team_level_to' INTEGER NOT NULL, 'odds_csv_1' TEXT NOT NULL, 'odds_csv_2' TEXT NOT NULL, 'odds_csv_3' TEXT NOT NULL, 'odds_csv_4' TEXT NOT NULL, 'odds_csv_5' TEXT NOT NULL, 'odds_csv_6' TEXT NOT NULL, 'odds_csv_7' TEXT NOT NULL, 'odds_csv_8' TEXT NOT NULL, 'odds_csv_9' TEXT NOT NULL, 'odds_csv_10' TEXT NOT NULL, PRIMARY KEY('odds_group_id','team_level_from','team_level_to'));
-INSERT INTO "clan_battle_odds_data" VALUES(3100101,1,29,'31001_01','','','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100101,30,59,'31001_03','','','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100101,60,-1,'31001_05','','','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100102,1,29,'31001_01','31001_01','','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100102,30,59,'31001_03','31001_03','','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100102,60,-1,'31001_05','31001_05','','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100103,1,29,'31001_01','31001_01','31001_01','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100103,30,59,'31001_03','31001_03','31001_03','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100103,60,-1,'31001_05','31001_05','31001_05','','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100104,1,29,'31001_01','31001_01','31001_01','31001_01','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100104,30,59,'31001_03','31001_03','31001_03','31001_03','','','','','','');
-INSERT INTO "clan_battle_odds_data" VALUES(3100104,60,-1,'31001_05','31001_05','31001_05','31001_05','','','','','','');
 COMMIT;

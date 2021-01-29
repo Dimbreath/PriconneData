@@ -49,8 +49,6 @@ INSERT INTO "story_data" VALUES(2001,2,0,'Chapter 1_A Mysterious Girl',2001005,2
 INSERT INTO "story_data" VALUES(2002,2,0,'Chapter 2_Regina Geas',2002005,3,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2003,2,0,'Chapter 3_Lurking Shadows',2003005,4,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2004,2,0,'Chapter 4_Pastures in Peril',2004005,5,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
-INSERT INTO "story_data" VALUES(2005,2,0,'Chapter 5_The Seven Crowns',2005006,6,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
-INSERT INTO "story_data" VALUES(2006,2,0,'Chapter 6_Forgotten Princess',2006013,7,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3004,3,4,'Caon',0,10,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
@@ -65,7 +63,7 @@ INSERT INTO "story_data" VALUES(3012,3,12,'Weissflügel (Landosol Branch)',0,15,
 INSERT INTO "story_data" VALUES(3013,3,13,'Little Lyrical',0,5,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3014,3,14,'Diabolos',0,7,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3015,3,15,'Lucent Academy',0,14,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
-INSERT INTO "story_data" VALUES(4001,4,0,'guildhouse',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',5);
+INSERT INTO "story_data" VALUES(4001,4,0,'Guildhouse',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',5);
 INSERT INTO "story_data" VALUES(4002,4,0,'Arena',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',4);
 INSERT INTO "story_data" VALUES(4003,4,0,'Dungeon',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',3);
 COMMIT;
