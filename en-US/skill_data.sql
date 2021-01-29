@@ -50,7 +50,7 @@ INSERT INTO "skill_data" VALUES(1011002,'Concentration',0,0,1.07,101100202,10110
 INSERT INTO "skill_data" VALUES(1011003,'Crushing Shot',0,0,1.5,101100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front.',2001);
 INSERT INTO "skill_data" VALUES(1011501,'Penetration',0,0,0.0,101150101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1011511,'Penetration+',0,0,0.0,101151101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
-INSERT INTO "skill_data" VALUES(1012001,'Shooting☆Star',1,0,0.0,101200101,101200102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals small physical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.',1002);
+INSERT INTO "skill_data" VALUES(1012001,'Shooting☆Star',1,0,0.0,101200101,101200102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals small magical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.',1002);
 INSERT INTO "skill_data" VALUES(1012002,'Psychic☆Blast',1,0,1.4,101200201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy with the highest physical attack.',2002);
 INSERT INTO "skill_data" VALUES(1012003,'Star☆Light',1,0,1.4,101200301,101200302,0,0,0,0,0,0,101200301,0,0,0,0,0,'Deals small magical damage to an enemy with the highest physical attack and inflict Stun.',2002);
 INSERT INTO "skill_data" VALUES(1012501,'Happy☆Energy',0,0,0.0,101250101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
@@ -150,7 +150,7 @@ INSERT INTO "skill_data" VALUES(1043002,'Hard Slash',0,0,1.125,104300201,0,0,0,0
 INSERT INTO "skill_data" VALUES(1043003,'Heroic Howl',0,0,1.895,104300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lowers physical defense of an enemy directly in front by a moderate amount.',2004);
 INSERT INTO "skill_data" VALUES(1043501,'Raging Wolf Fang',0,0,0.0,104350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1043511,'Raging Wolf Fang+',0,0,0.0,104351101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
-INSERT INTO "skill_data" VALUES(1045001,'Throes of Ecstasy',1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs physical damage.',1013);
+INSERT INTO "skill_data" VALUES(1045001,'Throes of Ecstasy',1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.',1013);
 INSERT INTO "skill_data" VALUES(1045002,'Play with Me Instead!',1,0,0.375,104500201,104500202,0,0,0,0,0,0,0,0,0,0,0,0,'[Taunt] Taunts all enemies. Small boost to own physical defense.',2012);
 INSERT INTO "skill_data" VALUES(1045003,'I Like It Rough!',1,0,1.375,104500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense.',2003);
 INSERT INTO "skill_data" VALUES(1045501,'Sheltered by Fantasy',0,0,0.0,104550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
@@ -160,6 +160,11 @@ INSERT INTO "skill_data" VALUES(1046002,'Feline Fling',0,0,1.325,104600201,10460
 INSERT INTO "skill_data" VALUES(1046003,'Finicky Feline',0,0,1.325,104600301,104600302,0,0,0,0,0,0,0,0,0,0,0,0,'Reduces the TP of the enemy with the highest magical attack power by a small amount while also recovering own TP by a small amount.',2006);
 INSERT INTO "skill_data" VALUES(1046501,'One Myarvelous Cat',0,0,0.0,104650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1046511,'One Myarvelous Cat+',0,0,0.0,104651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1047001,'Inferno Shield',1,0,0.0,104700101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs physical and magic damage.',1013);
+INSERT INTO "skill_data" VALUES(1047002,'Inspiring Courage',0,0,0.475,104700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers HP of the nearby ally with the lowest HP by a small amount.',2005);
+INSERT INTO "skill_data" VALUES(1047003,'Armor Breaker',0,0,0.875,104700301,104700302,0,0,0,0,0,0,0,0,0,0,0,0,'Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.',2001);
+INSERT INTO "skill_data" VALUES(1047501,'Justice Barrier',0,0,0.0,104750101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1047511,'Justice Barrier+',0,0,0.0,104751101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1048001,'Tsunami Dive',0,0,0.0,104800101,104800102,104800103,0,0,0,0,0,0,104800102,0,0,0,0,'Deals large physical damage to an enemy directly in front and inflicts Stun.',1001);
 INSERT INTO "skill_data" VALUES(1048002,'First Aid',0,0,1.25,104800201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers own HP by a large amount.',2005);
 INSERT INTO "skill_data" VALUES(1048003,'Hydro Slice',1,0,1.31,104800301,104800302,0,0,0,0,0,0,104800301,0,0,0,0,0,'Deals small physical damage to an enemy directly in front and inflicts Stun.',2001);

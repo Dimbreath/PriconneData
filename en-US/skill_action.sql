@@ -247,6 +247,12 @@ INSERT INTO "skill_action" VALUES(104600301,1,16,2,0,0,40.0,1.25,0.0,0.0,0.0,0.0
 INSERT INTO "skill_action" VALUES(104600302,1,16,1,0,0,40.0,1.25,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Recovers own TP by {0}.','TP recovery + {0}');
 INSERT INTO "skill_action" VALUES(104650101,1,90,2,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(104651101,1,90,2,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
+INSERT INTO "skill_action" VALUES(104700101,1,6,6,0,0,55.0,55.0,18.0,0.0,0.0,0.0,0.0,2,3,0,7,0,1,'Deploys Barrier that absorbs {0} physical and magic damage.','Damage absorbed + {0}');
+INSERT INTO "skill_action" VALUES(104700201,1,4,1,0,0,1.0,7.5,7.5,1.0,0.0,0.0,0.0,2,2,300,5,0,1,'Recovers an ally''s HP by {0}.','HP recovery + {0}');
+INSERT INTO "skill_action" VALUES(104700301,1,1,1,0,0,8.0,8.0,0.6,0.0,0.0,0.0,0.0,1,2,-1,0,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(104700302,1,10,21,0,0,1.0,0.6,0.6,12.0,0.0,0.0,0.0,1,2,-1,1,0,1,'Lowers an enemy''s physical defense by {0}.','Physical defense lowered + {0}');
+INSERT INTO "skill_action" VALUES(104750101,1,90,5,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(104751101,1,90,5,0,0,1.0,32.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
 INSERT INTO "skill_action" VALUES(104800101,1,2,1,0,0,50.0,0.0,1.0,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'','');
 INSERT INTO "skill_action" VALUES(104800102,1,1,1,0,0,50.0,50.0,4.0,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(104800103,1,8,7,0,0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1,1,-1,1,0,1,'Renders an enemy immobile for a set period of time.','Stun success rate + 1');

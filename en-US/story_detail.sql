@@ -256,6 +256,14 @@ INSERT INTO "story_detail" VALUES(1046005,1046,'Tamaki Episode 5','Krook''d Kons
 INSERT INTO "story_detail" VALUES(1046006,1046,'Tamaki Episode 6','The Phantom Cat Returns',0,0,1046005,6,104601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1046007,1046,'Tamaki Episode 7','Finding Bigcat',0,0,1046006,7,104601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1046008,1046,'Tamaki Episode 8','Dieting Delights',0,0,1046007,8,104601,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047001,1047,'Jun Episode 1','A Gracious Guard',0,0,0,0,104701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047002,1047,'Jun Episode 2','A Token of Goodwill',0,0,1047001,2,104701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047003,1047,'Jun Episode 3','A Selfie to Remember',0,0,1047002,3,104701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047004,1047,'Jun Episode 4','An Off-Duty Hero',0,0,1047003,4,104701,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047005,1047,'Jun Episode 5','Behind the Mask',0,0,1047004,5,104701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047006,1047,'Jun Episode 6','Bashful Captain',0,0,1047005,6,104701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047007,1047,'Jun Episode 7','Curious About You',0,0,1047006,7,104701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1047008,1047,'Jun Episode 8','A True Hero',0,0,1047007,8,104701,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1048001,1048,'Mifuyu Episode 1','An Ardent Instructor',0,0,0,0,104801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1048002,1048,'Mifuyu Episode 2','Castle Cleaners',0,0,1048001,2,104801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1048003,1048,'Mifuyu Episode 3','A Toppled Teacher',0,0,1048002,3,104801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -367,6 +375,9 @@ INSERT INTO "story_detail" VALUES(2004010,2004,'Chapter 4 Interlude','Interlude 
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(3002001,3002,'Nightmare Episode 1','Defenders of Order and Chaos',0,0,0,1,8,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(3002002,3002,'Nightmare Episode 2','Golden Egg of Fortune',0,0,3002001,6,8,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(3002003,3002,'Nightmare Episode 3','Nightmare Rhapsody',0,0,3002002,8,8,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3003001,3003,'Sarendia Orphanage Episode 1','There''s No Place Like Home',0,0,0,1,9,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3003002,3003,'Sarendia Orphanage Episode 2','The Roles We Play',0,0,3003001,6,9,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3003003,3003,'Sarendia Orphanage Episode 3','I''ll Tell You Someday',0,0,3003002,8,9,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

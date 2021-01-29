@@ -1,3 +1,5 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'campaign_schedule' ('id' INTEGER NOT NULL, 'campaign_category' INTEGER NOT NULL, 'value' REAL NOT NULL, 'system_id' INTEGER NOT NULL, 'icon_image' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO "campaign_schedule" VALUES(1,34,2000.0,103,30,'2021/01/29 13:00:00','2021/02/08 12:59:59');
+INSERT INTO "campaign_schedule" VALUES(2,44,2000.0,103,40,'2021/01/29 13:00:00','2021/02/08 12:59:59');
 COMMIT;

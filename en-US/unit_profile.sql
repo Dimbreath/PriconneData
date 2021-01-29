@@ -4,6 +4,7 @@ INSERT INTO "unit_profile" VALUES(100101,'Hiyori','16','Twinkle Wish','beastfolk
 INSERT INTO "unit_profile" VALUES(100201,'Yui','17','Twinkle Wish','humanfolk','158','47','4','5','O','cooking, people watching','Risa Taneda',0,'A kind girl who excels at combat support','','2');
 INSERT INTO "unit_profile" VALUES(100301,'Rei','18','Twinkle Wish','Demonfolk','163','46','1','12','B','reading, riding horses, tea','Saori Hayami',0,'A cool-headed swordswoman who faces everything head-on','','2');
 INSERT INTO "unit_profile" VALUES(100401,'Misogi','9','Little Lyrical','humanfolk','128','27','8','10','O','pranks, exploring','Sumire Morohoshi',0,'A prankster who loves exploring','','5');
+INSERT INTO "unit_profile" VALUES(100501,'Matsuri','12','Nightmare, Defenders of the Throne','beastfolk','146','40','11','25','O','playing hero','Asami Shimoda',0,'A knight-in-training who idolizes heroes','','8');
 INSERT INTO "unit_profile" VALUES(100601,'Akari','13','Diabolos','Demonfolk','150','42','11','22','O','the saxophone','Azumi Asakura',0,'The town darling who everyone wants to dote on','','7');
 INSERT INTO "unit_profile" VALUES(100701,'Miyako','14','Diabolos','Demonfolk','130','32','1','23','B','eating pudding','Sora Amamiya',0,'A ghost girl who loves pudding','','7');
 INSERT INTO "unit_profile" VALUES(100801,'Yuki','14','Weissflügel (Landosol Branch)','elvenfolk','150','40','10','10','AB','looking at himself in the mirror','Naomi Ozora',0,'Believes himself to be the fairest of them all','','15');
@@ -32,6 +33,7 @@ INSERT INTO "unit_profile" VALUES(103201,'Akino','18','Mercurius Foundation','hu
 INSERT INTO "unit_profile" VALUES(103301,'Mahiru','20','Elizabeth Park','humanfolk','142','35','3','3','B','comedy routines','Emi Nitta',0,'A comical farmgirl who loves making people smile','','11');
 INSERT INTO "unit_profile" VALUES(103401,'Yukari','22','Mercurius Foundation','elvenfolk','164','55','3','16','A','window-shopping','Asami Imai',0,'A pure-hearted woman with a mysterious charm','','12');
 INSERT INTO "unit_profile" VALUES(103601,'Kyoka','8','Little Lyrical','elvenfolk','118','21','2','2','A','studying','Yui Ogura',0,'A polite, level-headed young honor student','','5');
+INSERT INTO "unit_profile" VALUES(103701,'Tomo','13','Nightmare, Defenders of the Throne','humanfolk','149','43','8','11','A','swordfighting, teasing older people','Minori Chihara',0,'A swordfighter with a strong sense of duty who loves to tease','','8');
 INSERT INTO "unit_profile" VALUES(103801,'Shiori','14','Elizabeth Park','beastfolk','153','40','11','3','A','reading, taking walks','Ami Koshimizu',0,'A frail girl who enjoys reading','','11');
 INSERT INTO "unit_profile" VALUES(104001,'Aoi','13','Forestier','elvenfolk','158','44','6','6','AB','practicing making friends','Kana Hanazawa',0,'A girl hailing from the elven forest who wants to make friends','','6');
 INSERT INTO "unit_profile" VALUES(104201,'Chika','17','Carmina','humanfolk','163','46','6','3','O','various musical instruments','Ayaka Fukuhara',0,'A summoner who sings to protect others','','4');
@@ -39,6 +41,7 @@ INSERT INTO "unit_profile" VALUES(104301,'Makoto','17','Caon','beastfolk','168',
 INSERT INTO "unit_profile" VALUES(104401,'Illya','??','Diabolos','Demonfolk','172','50','5','5','A','world domination','Sakura Tange',0,'A powerful vampire who once ruled the night','','7');
 INSERT INTO "unit_profile" VALUES(104501,'Kuka','18','Weissflügel (Landosol Branch)','humanfolk','157','49','11','19','AB','reading novels','Juri Nagatsuma',0,'A shy girl who loves fantasizing','','15');
 INSERT INTO "unit_profile" VALUES(104601,'Tamaki','18','Mercurius Foundation','beastfolk','158','48','3','1','AB','playing with cats','Manami Numakura',0,'A catgirl who fights against the strong on behalf of the weak','','12');
+INSERT INTO "unit_profile" VALUES(104701,'Jun','25','Nightmare, Defenders of the Throne','humanfolk','171','50','10','25','A','martial arts, taking baths','Ayako Kawasumi',0,'A calm, cool, and collected knight who hides her face','？？？','8');
 INSERT INTO "unit_profile" VALUES(104801,'Mifuyu','20','Mercurius Foundation','humanfolk','163','49','11','11','O','mercenary jobs','Azusa Tadokoro',0,'A mercenary who prioritizes efficiency in both her work and personal affairs','','12');
 INSERT INTO "unit_profile" VALUES(104901,'Shizuru','18','Labyrinth','humanfolk','168','54','10','24','O','all housework','Hitomi Nabatame',0,'Your big sister will take good care of you!','','3');
 INSERT INTO "unit_profile" VALUES(105001,'Misaki','11','Lucent Academy','Demonfolk','120','22','1','3','A','reading fashion magazines, collecting makeup','Misaki Kuno',0,'A slightly precocious girl who''s in love with love','','14');
@@ -52,4 +55,6 @@ INSERT INTO "unit_profile" VALUES(105701,'Djeeta','17','？？？','humanfolk','
 INSERT INTO "unit_profile" VALUES(105801,'Pecorine','17','Gourmet Guild','humanfolk','156','46','3','31','O','eating, cooking','M・A・O',0,'A girl who''s always cheerful and hungry','','1');
 INSERT INTO "unit_profile" VALUES(105901,'Kokkoro','11','Gourmet Guild','elvenfolk','140','35','5','11','B','meditating, raising plants and animals','Miku Ito',0,'A little guide who takes care of her lord','','1');
 INSERT INTO "unit_profile" VALUES(106001,'Karyl','14','Gourmet Guild','beastfolk','152','39','9','2','A','playing with cats','Rika Tachibana',0,'A mysterious, cat-eared sorceress discovered lying unconscious','','1');
+INSERT INTO "unit_profile" VALUES(106801,'Labyrista','??','Labyrinth','humanfolk','???','??','?','?','?','people watching','Miyuki Sawashiro',0,'？？？？？？？','','3');
+INSERT INTO "unit_profile" VALUES(107101,'Christina','27','Nightmare, Defenders of the Throne','humanfolk','165','??','2','7','O','fighting strong opponents','Chiaki Takahashi',0,'The audacious vice-captain of Nightmare','','8');
 COMMIT;

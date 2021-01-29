@@ -95,6 +95,7 @@ INSERT INTO "unit_enemy_data" VALUES(604201,'Chika''s Shadow',104201,7,7,450,790
 INSERT INTO "unit_enemy_data" VALUES(604301,'Makoto''s Shadow',104301,5,5,450,165,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Makoto.');
 INSERT INTO "unit_enemy_data" VALUES(604501,'Kuka''s Shadow',104501,2,2,450,130,1,2.375,0,1,'A peculiar monster bearing a striking resemblance to Kuka.');
 INSERT INTO "unit_enemy_data" VALUES(604601,'Tamaki''s Shadow',104601,2,2,450,215,1,2.25,0,1,'A peculiar monster bearing a striking resemblance to Tamaki.');
+INSERT INTO "unit_enemy_data" VALUES(604701,'Jun''s Shadow',104701,5,5,450,135,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Jun.');
 INSERT INTO "unit_enemy_data" VALUES(604801,'Mifuyu''s Shadow',104801,6,6,450,420,1,2.19,0,1,'A peculiar monster bearing a striking resemblance to Mifuyu.');
 INSERT INTO "unit_enemy_data" VALUES(604901,'Shizuru''s Shadow',104901,5,5,450,285,1,2.375,0,1,'A peculiar monster bearing a striking resemblance to Shizuru.');
 INSERT INTO "unit_enemy_data" VALUES(605001,'Misaki''s Shadow',105001,7,7,450,760,2,2.07,0,1,'A peculiar monster bearing a striking resemblance to Misaki.');

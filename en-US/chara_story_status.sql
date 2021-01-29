@@ -224,6 +224,13 @@ INSERT INTO "chara_story_status" VALUES(1046005,'Tamaki''s Episode 5',2,40,0,0,0
 INSERT INTO "chara_story_status" VALUES(1046006,'Tamaki''s Episode 6',2,40,6,10,0,0,0,0,0,0,1046,1079,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1046007,'Tamaki''s Episode 7',2,40,6,10,0,0,0,0,0,0,1046,1079,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1046008,'Tamaki''s Episode 8',2,60,6,15,8,3,0,0,0,0,1046,1079,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047002,'Jun''s Episode 2',1,150,0,0,0,0,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047003,'Jun''s Episode 3',1,150,0,0,0,0,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047004,'Jun''s Episode 4',1,300,0,0,0,0,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047005,'Jun''s Episode 5',1,400,0,0,0,0,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047006,'Jun''s Episode 6',1,400,3,4,0,0,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047007,'Jun''s Episode 7',1,400,3,4,0,0,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1047008,'Jun''s Episode 8',1,600,3,6,5,4,0,0,0,0,1047,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1048002,'Mifuyu''s Episode 2',2,15,0,0,0,0,0,0,0,0,1048,1080,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1048003,'Mifuyu''s Episode 3',2,15,0,0,0,0,0,0,0,0,1048,1080,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1048004,'Mifuyu''s Episode 4',2,30,0,0,0,0,0,0,0,0,1048,1080,0,0,0,0,0,0,0,0);

@@ -4,6 +4,7 @@ INSERT INTO "unit_background" VALUES(100101,'Hiyori Harusaki',500040,'Landosol -
 INSERT INTO "unit_background" VALUES(100201,'Yui Kusano',500040,'Landosol - Guildhouse',0.0,4);
 INSERT INTO "unit_background" VALUES(100301,'Rei Shijo',500040,'Landosol - Guildhouse',0.0,3);
 INSERT INTO "unit_background" VALUES(100401,'Misogi Hodaka',500140,'Prano Plains',0.0,4);
+INSERT INTO "unit_background" VALUES(100501,'Matsuri Orihara',500090,'Landosol - Palace Entrance',0.0,4);
 INSERT INTO "unit_background" VALUES(100601,'Akari Kazemiya',500260,'Ancient Castle',0.0,4);
 INSERT INTO "unit_background" VALUES(100701,'Miyako Izumo',500260,'Ancient Castle',0.0,4);
 INSERT INTO "unit_background" VALUES(100801,'Yuki Nijimura',500140,'Prano Plains',0.0,4);
@@ -32,6 +33,7 @@ INSERT INTO "unit_background" VALUES(103201,'Akino Todo',500070,'Mercurius Found
 INSERT INTO "unit_background" VALUES(103301,'Mahiru Noto',500150,'Elizabeth Park',0.0,9);
 INSERT INTO "unit_background" VALUES(103401,'Yukari Ayase',500070,'Mercurius Foundation Headquarters',0.0,4);
 INSERT INTO "unit_background" VALUES(103601,'Kyoka Hikawa',500140,'Prano Plains',0.0,1);
+INSERT INTO "unit_background" VALUES(103701,'Tomo Mikuma',500090,'Landosol - Palace Entrance',0.0,2);
 INSERT INTO "unit_background" VALUES(103801,'Shiori Kashiwazaki',500150,'Elizabeth Park',0.0,2);
 INSERT INTO "unit_background" VALUES(104001,'Aoi Futaba',500180,'Elven Forest',0.0,2);
 INSERT INTO "unit_background" VALUES(104201,'Chika Misumi',500010,'Landosol - Residential District',0.0,4);
@@ -39,6 +41,7 @@ INSERT INTO "unit_background" VALUES(104301,'Makoto Aki',500060,'Caon Headquarte
 INSERT INTO "unit_background" VALUES(104401,'Illya Ornstein',500260,'Ancient Castle',0.0,4);
 INSERT INTO "unit_background" VALUES(104501,'Kuka Tomi',500140,'Prano Plains',0.0,4);
 INSERT INTO "unit_background" VALUES(104601,'Tamaki Miyasaka',500070,'Mercurius Foundation Headquarters',0.0,3);
+INSERT INTO "unit_background" VALUES(104701,'Jun Shirogane',500090,'Landosol - Palace Entrance',0.0,1);
 INSERT INTO "unit_background" VALUES(104801,'Mifuyu Ogami',500070,'Mercurius Foundation Headquarters',0.0,2);
 INSERT INTO "unit_background" VALUES(104901,'Shizuru Hoshino',500030,'Landosol - Business District',0.0,4);
 INSERT INTO "unit_background" VALUES(105001,'Misaki Tamaizumi',500080,'Lucent Academy',0.0,2);
@@ -53,4 +56,5 @@ INSERT INTO "unit_background" VALUES(105801,'Pecorine',500130,'Esterella Road',0
 INSERT INTO "unit_background" VALUES(105901,'Kokkoro',500130,'Esterella Road',0.0,2);
 INSERT INTO "unit_background" VALUES(106001,'Karyl',500130,'Esterella Road',0.0,3);
 INSERT INTO "unit_background" VALUES(106801,'Akira Mosakuji',500030,'Landosol - Business District',0.0,2);
+INSERT INTO "unit_background" VALUES(107101,'Christina Morgan',500090,'Landosol - Palace Entrance',0.0,2);
 COMMIT;

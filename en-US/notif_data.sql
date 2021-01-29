@@ -192,6 +192,12 @@ INSERT INTO "notif_data" VALUES(104601,3,'Seems the guildhouse is at full stamin
 INSERT INTO "notif_data" VALUES(104601,4,'The guildhouse is littered with EXP potions! This little kitty is still growin'', so these''ll be a big help!');
 INSERT INTO "notif_data" VALUES(104601,5,'The guildhouse is overflowing with Mana nyow. We gotta sharpen our claws so we can keep scratching up even more loot!');
 INSERT INTO "notif_data" VALUES(104601,6,'Myahoo, you''ve got full items at the guildhouse! Come and get your paws on ''em before they go to waste!');
+INSERT INTO "notif_data" VALUES(104701,1,'Ah, your stamina has recovered. The time may be ripe to do battle.');
+INSERT INTO "notif_data" VALUES(104701,2,'Your guildhouse''s skip ticket supply is full. Perhaps they could be put to use in carrying out some missions.');
+INSERT INTO "notif_data" VALUES(104701,3,'The stamina supply at your guildhouse seems to be full. If you have excess energy, perhaps some training is in order?');
+INSERT INTO "notif_data" VALUES(104701,4,'Your EXP potion generator seems full to bursting. Building your strength is the first step to defending justice!');
+INSERT INTO "notif_data" VALUES(104701,5,'Your guildhouse is practically overflowing with Mana. While awaiting your return, I was mistaken for a statue...');
+INSERT INTO "notif_data" VALUES(104701,6,'All the supplies in your guildhouse have reached maximum capacity. I will watch over them until your return.');
 INSERT INTO "notif_data" VALUES(104801,1,'I hear your stamina is back to full. Come on, let''s get out there and make some money!');
 INSERT INTO "notif_data" VALUES(104801,2,'The skip tickets are full back at the guildhouse. Make sure you spend them wisely!');
 INSERT INTO "notif_data" VALUES(104801,3,'Looks like your stamina is full at the guildhouse. Go and snag it quickly so we can start putting it to good use!');

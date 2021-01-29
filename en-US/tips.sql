@@ -32,6 +32,7 @@ INSERT INTO "tips" VALUES(4104201,104201,1,'Enchanting Melody');
 INSERT INTO "tips" VALUES(4104301,104301,1,'Secret Desires');
 INSERT INTO "tips" VALUES(4104501,104501,1,'Happens to the Best of Us');
 INSERT INTO "tips" VALUES(4104601,104601,1,'Freshly Baked');
+INSERT INTO "tips" VALUES(4104701,104701,1,'Fashion Conscious');
 INSERT INTO "tips" VALUES(4104801,104801,1,'Optimal Shopping?');
 INSERT INTO "tips" VALUES(4104901,104901,1,'A Sisterly Suggestion');
 INSERT INTO "tips" VALUES(4105001,105001,1,'Very Sophisticated?');

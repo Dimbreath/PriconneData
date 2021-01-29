@@ -17,7 +17,7 @@ INSERT INTO "unit_comments" VALUES(1002004,100201,1,4,1,4.0,2,'Are you feeling h
 INSERT INTO "unit_comments" VALUES(1002005,100201,1,5,1,3.0,5,'Do you need help with anything? If you''re heading off somewhere, I''d love to keep you company...');
 INSERT INTO "unit_comments" VALUES(1002006,100231,1,1,1,0.0,1,'Let me know if there''s anything you need me for! I can heal up little cuts and scratches in no time!');
 INSERT INTO "unit_comments" VALUES(1002007,100231,1,2,1,0.0,1,'If it''s for your sake, Mr. Knight, I... I feel like I can go the extra mile!');
-INSERT INTO "unit_comments" VALUES(1002008,100231,1,3,1,0.0,1,'Healing light, come forth! H-huh? Just seing my face makes you feel better? Stop... You''re making me blush...');
+INSERT INTO "unit_comments" VALUES(1002008,100231,1,3,1,0.0,1,'Healing light, come forth! H-huh? Just seeing my face makes you feel better? Stop... You''re making me blush...');
 INSERT INTO "unit_comments" VALUES(1002009,100231,1,4,1,0.0,1,'Hmm, what kind of magic should I study next? L-love magic, maybe? N-no, I''m sure there''s no such thing!');
 INSERT INTO "unit_comments" VALUES(1002010,100231,1,5,1,0.0,1,'I''ve been learning protective magic! Spells to protect from fire, cold, heat... And, um, fish bones. They can really hurt your throat...');
 INSERT INTO "unit_comments" VALUES(1003001,100301,1,1,1,4.0,2,'I''ll put in as much effort as it takes to achieve my goals. I think that''s a good attitude to have—you should try it too.');
@@ -74,7 +74,7 @@ INSERT INTO "unit_comments" VALUES(1009001,100901,1,1,1,3.5,2,'The time is nigh 
 INSERT INTO "unit_comments" VALUES(1009002,100901,1,2,1,2.5,2,'Have you committed my true name to memory? It is I, Annerose von Stechpalm!');
 INSERT INTO "unit_comments" VALUES(1009003,100901,1,3,4,5.0,3,'Urgh...! My eye burns with the energy of the dark magicks sealed within! ...No, I don''t need any eye drops!');
 INSERT INTO "unit_comments" VALUES(1009004,100901,1,4,1,5.5,2,'Dearest Sigurd... Though this world is not our own, the bond we forged on the battlefield yet endures! Hahahahah!');
-INSERT INTO "unit_comments" VALUES(1009005,100901,1,5,1,5.0,5,'Come, let us crush the ambitions of the Syndicate! Only once our destiny is fulfilled can we reforge our bonds of m-matrimony...');
+INSERT INTO "unit_comments" VALUES(1009005,100901,1,5,1,5.0,5,'Join with me, and let us crush the ambitions of the Syndicate! Only once our destiny is fulfilled can we reforge our lost bonds of m-matrimony...');
 INSERT INTO "unit_comments" VALUES(1009006,100931,1,1,1,0.0,1,'Witness the shape of despair! This is my forbidden art... The Ultimate Magick of Infinite Annihilation!');
 INSERT INTO "unit_comments" VALUES(1009007,100931,1,2,1,0.0,1,'If you have special techniques of your own, be sure to unleash them with flair! Let me demonstrate...');
 INSERT INTO "unit_comments" VALUES(1009008,100931,1,3,1,0.0,1,'When the magicks gathered in my accursed eye spark forth, all enemies shall meet their doom!');
@@ -320,6 +320,16 @@ INSERT INTO "unit_comments" VALUES(1046007,104631,1,2,1,0.0,1,'You should come t
 INSERT INTO "unit_comments" VALUES(1046008,104631,1,3,1,0.0,1,'When the fur hits the fan you can count on me. Shall we kick butt today? Let''s go!');
 INSERT INTO "unit_comments" VALUES(1046009,104631,1,4,1,0.0,1,'Eheheh. If I can be with you, maybe I wouldn''t myind being a housecat. ...Kidding, kidding!');
 INSERT INTO "unit_comments" VALUES(1046010,104631,1,5,1,0.0,1,'I saved the purr-fect snack to share with you—taiyaki! Let''s split it.');
+INSERT INTO "unit_comments" VALUES(1047001,104701,1,1,1,0.0,1,'There are reasons why I can''t remove my armor, but I''m still a woman under this mask.');
+INSERT INTO "unit_comments" VALUES(1047002,104701,1,2,1,0.0,1,'My armor gets extremely hot in the sun. But somehow, I stay fairly cool inside.');
+INSERT INTO "unit_comments" VALUES(1047003,104701,1,3,1,0.0,1,'I love all forms of exercise, but I''m a poor swimmer. My armor''s just too heavy...');
+INSERT INTO "unit_comments" VALUES(1047004,104701,1,4,1,0.0,1,'I know my mask hides my face,\nso I do my best to express my thoughts and emotions in other ways.');
+INSERT INTO "unit_comments" VALUES(1047005,104701,1,5,1,0.0,1,'Even if you can''t see my face, I''m always watching yours.');
+INSERT INTO "unit_comments" VALUES(1047006,104731,1,1,1,0.0,1,'I wield my sword to make this world a place where swords are no longer necessary.');
+INSERT INTO "unit_comments" VALUES(1047007,104731,1,2,1,0.0,1,'To protect the smiles of the children, I will stand against even the strongest foe.');
+INSERT INTO "unit_comments" VALUES(1047008,104731,1,3,1,0.0,1,'Even if this land is engulfed in the flames of hell itself, I will aid those in need.');
+INSERT INTO "unit_comments" VALUES(1047009,104731,1,4,1,0.0,1,'When I feel your gaze on my back in battle, it puts me at ease.');
+INSERT INTO "unit_comments" VALUES(1047010,104731,1,5,1,0.0,1,'As a leader, I must protect all peoples, but I find myself prioritizing you...');
 INSERT INTO "unit_comments" VALUES(1048001,104801,1,1,1,3.9,2,'Hoarding items, or saving up rupies? I''ve got plans for both, so ask if you''re not sure.');
 INSERT INTO "unit_comments" VALUES(1048002,104801,1,2,2,2.9,2,'I''ve come up with the perfect plan. If we''re going outside the town, let''s get moving.');
 INSERT INTO "unit_comments" VALUES(1048003,104801,1,3,2,4.5,1,'The key to efficiency is being observant. Are you training your senses?');

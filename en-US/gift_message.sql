@@ -21,12 +21,12 @@ INSERT INTO "gift_message" VALUES(9103,'Please claim in less than 4 attempts.',0
 INSERT INTO "gift_message" VALUES(9201,'Thank you for your cooperation during the maintenance.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9202,'Thank you for updating versions.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9203,'Present from the Admin team.',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9204,'Celebration for reaching 200,000 users during the prelaunch campaign.',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9205,'Celebration for reaching 280,000 users during the prelaunch campaign.',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9206,'Celebration for reaching 300,000 users during the prelaunch campaign.',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9208,'-',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9204,'Reward for reaching 500,000 users during the pre-registration campaign.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9205,'Reward for reaching 1,000,000 users during the pre-registration campaign.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9206,'Reward for reaching 15,000 followers on Instagram.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9208,'A gift to celebrate the release of the Global version of Princess Connect! Re: Dive.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9209,'-',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9210,'-',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9210,'Reward for pre-registering with Princess Connect Re: Dive.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9211,'-',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9212,'-',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9213,'Present for the Guildhouse from the Admin team.',0,0,0,0);

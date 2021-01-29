@@ -132,7 +132,7 @@ INSERT INTO "stationary_mission_data" VALUES(21003002,40,102,'Gather 60 clear ra
 INSERT INTO "stationary_mission_data" VALUES(21003003,40,102,'Gather 90 clear rank stars',1002,0,0,0,90,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003004,40,102,'Gather 120 clear rank stars',1002,0,0,0,120,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003005,40,102,'Gather 150 clear rank stars',1002,0,0,0,150,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(21003006,40,102,'Gather 180 lear rank stars',1002,0,0,0,180,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21003006,40,102,'Gather 180 clear rank stars',1002,0,0,0,180,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003007,40,102,'Gather 210 clear rank stars',1002,0,0,0,210,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003008,40,102,'Gather 240 clear rank stars',1002,0,0,0,240,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003009,40,102,'Gather 270 clear rank stars',1002,0,0,0,270,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
@@ -141,8 +141,8 @@ INSERT INTO "stationary_mission_data" VALUES(21003011,40,102,'Gather 330 clear r
 INSERT INTO "stationary_mission_data" VALUES(21003012,40,102,'Gather 360 clear rank stars',1002,0,0,0,360,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003013,40,102,'Gather 390 clear rank stars',1002,0,0,0,390,21003001,101,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21005001,110,204,'Clear the Cloudtop Peak.',1005,31001007,0,0,1,21005001,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Sheercliff Ruins.',1005,31002010,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Deepwood Oak.',1005,31003010,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Deepwood Oak.',1005,31002010,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Sheercliff Ruins.',1005,31003010,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002001,90,205,'Win 10 times in the Battle Arena',4002,0,0,0,10,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002002,90,205,'Win 20 times in the Battle Arena',4002,0,0,0,20,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002003,90,205,'Win 30 times in the Battle Arena',4002,0,0,0,30,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
