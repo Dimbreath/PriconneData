@@ -90,6 +90,11 @@ INSERT INTO "skill_data" VALUES(1025002,'Wind Blast',1,0,1.6,102500201,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(1025003,'Maid''s Comfort',1,0,1.46,102500301,102500302,0,0,0,0,0,0,102500301,0,0,0,0,0,'Recovers HP and boosts physical attack of all nearby allies by a small amount.',2005);
 INSERT INTO "skill_data" VALUES(1025501,'Maid''s Dedication',0,0,0.0,102550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1025511,'Maid''s Dedication+',0,0,0.0,102551101,102551102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack and small boost to magical defense at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1026001,'Homemade Sweet Bun Boost',1,0,0.0,102600101,102600102,102600103,0,0,0,0,0,0,0,0,0,0,0,'Recovers HP of all allies by a small amount. Small boost to their physical attack and magical defense.',1003);
+INSERT INTO "skill_data" VALUES(1026002,'Patience Is a Virtue',1,0,0.59,102600201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to magical defense of all nearby allies.',2003);
+INSERT INTO "skill_data" VALUES(1026003,'Acorn Barrage',1,0,0.92,102600301,102600302,0,0,0,0,0,0,102600301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and inflicts Stun.',2018);
+INSERT INTO "skill_data" VALUES(1026501,'Amped on Acorns',0,0,0.0,102650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1026511,'Amped on Acorns+',0,0,0.0,102651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1027001,'Deadly Discipline',0,0,0.0,102700101,102700102,102700103,0,0,0,0,0,0,0,0,0,0,0,'Deals massive physical damage to an enemy directly in front. Boost to own physical attack if the enemy is defeated by this skill.',1001);
 INSERT INTO "skill_data" VALUES(1027002,'Obsession',0,0,1.125,102700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to own physical attack.',2003);
 INSERT INTO "skill_data" VALUES(1027003,'Poison Mist',0,0,1.125,102700301,102700302,0,0,0,0,0,0,102700301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and inflicts Poison.',2022);

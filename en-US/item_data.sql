@@ -28,6 +28,7 @@ INSERT INTO "item_data" VALUES(31020,'Mimi''s Memory Shard','A shard of Mimi''s
 INSERT INTO "item_data" VALUES(31021,'Kurumi''s Memory Shard','A shard of Kurumi''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31021,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31022,'Yori''s Memory Shard','A shard of Yori''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31022,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31025,'Suzume''s Memory Shard','A shard of Suzume''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31025,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(31026,'Rin''s Memory Shard','A shard of Rin''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31058,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31027,'Eriko''s Memory Shard','A shard of Eriko''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31027,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31028,'Saren''s Memory Shard','A shard of Saren''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31028,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31029,'Nozomi''s Memory Shard','A shard of Nozomi''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31029,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
@@ -60,6 +61,7 @@ INSERT INTO "item_data" VALUES(90002,'Dungeon Coins','A special currency that ca
 INSERT INTO "item_data" VALUES(90003,'Arena Coins','A special currency that can only be earned in the arena. You can use it at the arena shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90004,'Princess Arena Coins','A special currency that can only be earned in the Princess Arena. You can use it in the Princess Arena shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90005,'Divine Amulet','A mysterious stone with mystical powers. You can purchase any memory piece at the Divine Amulet Shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(90006,'Clan Coins','A special currency that can only be earned in Clan Battles. You can use it at the clan shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90007,'Rupies','Astrum''s currency, which is essential for food, clothing, and housing in this world. You can use it at the guildhouse shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(99001,'Full Plate Armor','Used to refine a character''s equipment. Adds 10 equipment refinement points.',2,99,10,0,999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 COMMIT;

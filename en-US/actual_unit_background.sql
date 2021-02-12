@@ -18,6 +18,7 @@ INSERT INTO "actual_unit_background" VALUES(102031,'Mimi Akane',510120,4);
 INSERT INTO "actual_unit_background" VALUES(102131,'Kurumi Kuribayashi',510100,2);
 INSERT INTO "actual_unit_background" VALUES(102232,'Yori Kazemiya',510350,2);
 INSERT INTO "actual_unit_background" VALUES(102531,'Suzume Amano',510040,4);
+INSERT INTO "actual_unit_background" VALUES(102631,'Rin Morichika',510090,2);
 INSERT INTO "actual_unit_background" VALUES(102731,'Eriko Kuraishi',510090,4);
 INSERT INTO "actual_unit_background" VALUES(102832,'Saren Sasaki',510290,4);
 INSERT INTO "actual_unit_background" VALUES(102931,'Nozomi Sakurai',510300,9);

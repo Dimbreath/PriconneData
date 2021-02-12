@@ -180,6 +180,16 @@ INSERT INTO "unit_comments" VALUES(1025007,102531,1,2,1,0.0,1,'You''re going to 
 INSERT INTO "unit_comments" VALUES(1025008,102531,1,3,1,0.0,1,'Are you injured? I''m very good at healing magic! Other magic... Not so much.');
 INSERT INTO "unit_comments" VALUES(1025009,102531,1,4,1,0.0,1,'Oh no, I did it again! I promised myself I''d try harder not to mess up in front of you!');
 INSERT INTO "unit_comments" VALUES(1025010,102531,1,5,1,0.0,1,'Welcome home, master. J-just joking around! Hee hee hee!');
+INSERT INTO "unit_comments" VALUES(1026001,102601,1,1,5,5.4,1,'Wish I could just laze about forever, honestly. Don''t you agree?');
+INSERT INTO "unit_comments" VALUES(1026002,102601,1,2,2,6.8,5,'Hey, c''mere. Kick back and play a game with me or something. You gotta make time to relax!');
+INSERT INTO "unit_comments" VALUES(1026003,102601,1,3,4,6.5,5,'I''m starving. Got anything to eat? Preferably a sweet bun?');
+INSERT INTO "unit_comments" VALUES(1026004,102601,1,4,1,3.8,2,'Usually I just lie around by myself. It''s a lot more fun having you to play with.');
+INSERT INTO "unit_comments" VALUES(1026005,102601,1,5,4,9.5,2,'Normally I''m not good with people entering my personal space. But you, I don''t mind.');
+INSERT INTO "unit_comments" VALUES(1026006,102631,1,1,1,0.0,1,'Have I died and gone to heaven? Do I really get to roll around in my beloved acorns?');
+INSERT INTO "unit_comments" VALUES(1026007,102631,1,2,1,0.0,1,'Ahh, it''s like this place was built just for me. I might not ever wanna leave.');
+INSERT INTO "unit_comments" VALUES(1026008,102631,1,3,1,0.0,1,'Nothing beats a comfy bed, but being enveloped in nature''s a close second.');
+INSERT INTO "unit_comments" VALUES(1026009,102631,1,4,1,0.0,1,'Hey, over here! Come experience paradise with me. You can sit right here!');
+INSERT INTO "unit_comments" VALUES(1026010,102631,1,5,1,0.0,1,'This place really is amazing. Way worth coming outside for. Thanks for bringing me here!');
 INSERT INTO "unit_comments" VALUES(1027001,102701,1,1,1,5.0,2,'I''ve poured my heart into this love potion. I''m thinking of you the whole time, my love.');
 INSERT INTO "unit_comments" VALUES(1027002,102701,1,2,1,6.0,2,'My main job is a florist. My poison weed bouquets are quite popular right now.');
 INSERT INTO "unit_comments" VALUES(1027003,102701,1,3,1,9.0,6,'Flowers are important. They support life and make fine ingredients. Pretty? If you say so.');

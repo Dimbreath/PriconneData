@@ -1,3 +1,4 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'hatsune_schedule' ('event_id' INTEGER NOT NULL, 'teaser_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'close_time' TEXT NOT NULL, 'background' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'banner_unit_id' INTEGER NOT NULL, 'count_start_time' TEXT NOT NULL, 'backgroud_size_x' INTEGER NOT NULL, 'backgroud_size_y' INTEGER NOT NULL, 'backgroud_pos_x' INTEGER NOT NULL, 'backgroud_pos_y' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, PRIMARY KEY('event_id'));
+INSERT INTO "hatsune_schedule" VALUES(10001,'2021/02/12 23:00:00','2021/02/17 23:00:00','2021/03/06 22:59:59','2021/03/11 22:59:59',500213,'bgm_M32','bgm_M32',101201,'2021/02/17 23:00:00',1768,1060,60,50,0);
 COMMIT;

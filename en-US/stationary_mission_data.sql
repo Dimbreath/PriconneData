@@ -164,6 +164,7 @@ INSERT INTO "stationary_mission_data" VALUES(24004008,100,205,'Win 80 times in t
 INSERT INTO "stationary_mission_data" VALUES(24004009,100,205,'Win 90 times in the Princess Arena',4004,0,0,0,90,24004001,402,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24004010,100,205,'Win 100 times in the Princess Arena',4004,0,0,0,100,24004001,402,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26001001,60,501,'Set a dungeon support character for your clan.',6001,0,0,0,1,26001001,701,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(26001002,61,501,'Set a Clan Battle support character for your clan.',6010,0,0,0,1,26001001,701,'2021/02/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002001,120,301,'Recruit a total of 10 characters',6002,0,0,0,10,26002001,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002002,120,301,'Recruit a total of 20 characters',6002,0,0,0,20,26002002,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002003,120,301,'Recruit a total of 30 characters',6002,0,0,0,30,26002003,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');

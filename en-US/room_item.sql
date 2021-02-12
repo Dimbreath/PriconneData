@@ -143,4 +143,15 @@ INSERT INTO "room_item" VALUES(143,1,299,'Cafe Menu Board',1,1,1,0,'2015-04-01 1
 INSERT INTO "room_item" VALUES(144,1,299,'Cloudtop Monster Meat',1,1,1,5,'2015-04-01 14:00:00','','',-1,0,0,0,0,900144);
 INSERT INTO "room_item" VALUES(145,1,299,'Deepwood Fruit',1,1,1,6,'2015-04-01 14:00:00','','',-1,0,0,0,0,900145);
 INSERT INTO "room_item" VALUES(146,1,299,'Sheercliff Dumplings',1,1,1,7,'2015-04-01 14:00:00','','',-1,0,0,0,0,900146);
+INSERT INTO "room_item" VALUES(148,1,299,'Pink Patterned Cushion',1,1,10,0,'2021-02-08 23:00:00','','',300,0,0,0,150,900155);
+INSERT INTO "room_item" VALUES(149,1,204,'Fairy-tale Curtain',1,1,10,0,'2021-02-08 23:00:00','','',600,0,0,0,300,900154);
+INSERT INTO "room_item" VALUES(150,1,299,'Fancy Pillar',1,1,10,0,'2021-02-08 23:00:00','','',600,0,0,0,300,900153);
+INSERT INTO "room_item" VALUES(151,1,299,'Maho''s Plushie Set',1,1,1,0,'2021-02-08 23:00:00','','',1500,0,0,0,750,900152);
+INSERT INTO "room_item" VALUES(152,1,299,'Caon Weapon Barrel',1,1,10,0,'2021-02-08 23:00:00','','',300,0,0,0,150,900151);
+INSERT INTO "room_item" VALUES(153,1,299,'Makoto''s Treasure Chest',1,1,10,0,'2021-02-08 23:00:00','','',300,0,0,0,150,900150);
+INSERT INTO "room_item" VALUES(154,1,199,'Fairy-tale Lamp',1,1,10,0,'2021-02-08 23:00:00','','',300,0,0,0,150,900149);
+INSERT INTO "room_item" VALUES(155,4,902,'Maho-Maho Kingdom Wall',1,1,1,0,'2021-02-08 23:00:00','','',1200,0,0,0,600,900148);
+INSERT INTO "room_item" VALUES(156,3,901,'Patterned Rug Flooring',1,1,1,0,'2021-02-08 23:00:00','','',1200,0,0,0,600,900147);
+INSERT INTO "room_item" VALUES(157,1,904,'Fancy Upward Stairwell',1,1,3,0,'2021-02-08 23:00:00','','',1500,0,0,0,750,900119);
+INSERT INTO "room_item" VALUES(158,1,904,'Fancy Downward Stairwell',1,1,3,0,'2021-02-08 23:00:00','','',1500,0,0,0,750,900118);
 COMMIT;

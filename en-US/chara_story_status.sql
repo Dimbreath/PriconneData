@@ -126,6 +126,13 @@ INSERT INTO "chara_story_status" VALUES(1025005,'Suzume''s Episode 5',4,40,0,0,0
 INSERT INTO "chara_story_status" VALUES(1025006,'Suzume''s Episode 6',4,40,3,4,0,0,0,0,0,0,1025,1077,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1025007,'Suzume''s Episode 7',4,40,3,4,0,0,0,0,0,0,1025,1077,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1025008,'Suzume''s Episode 8',4,60,3,6,5,4,0,0,0,0,1025,1077,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026002,'Rin''s Episode 2',2,15,0,0,0,0,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026003,'Rin''s Episode 3',2,15,0,0,0,0,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026004,'Rin''s Episode 4',2,30,0,0,0,0,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026005,'Rin''s Episode 5',2,40,0,0,0,0,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026006,'Rin''s Episode 6',2,40,11,60,0,0,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026007,'Rin''s Episode 7',2,40,11,60,0,0,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1026008,'Rin''s Episode 8',2,60,11,90,5,4,0,0,0,0,1026,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1027002,'Eriko''s Episode 2',2,15,0,0,0,0,0,0,0,0,1027,1090,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1027003,'Eriko''s Episode 3',2,15,0,0,0,0,0,0,0,0,1027,1090,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1027004,'Eriko''s Episode 4',2,30,0,0,0,0,0,0,0,0,1027,1090,0,0,0,0,0,0,0,0);

@@ -17,4 +17,8 @@ INSERT INTO "navi_comment" VALUES(15001,15,105901,1,'Kokkoro','My lord, let us p
 INSERT INTO "navi_comment" VALUES(16001,16,106001,1,'Karyl','Looks like you can join\na Clan.\nWhy not give it a try?\nCould be a lot of fun! ♪',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
 INSERT INTO "navi_comment" VALUES(16002,16,105901,1,'Kokkoro','You can join a Clan here.\nThere are so many\nwonderful Clans,\nit is difficult to choose.',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
 INSERT INTO "navi_comment" VALUES(16003,16,105801,1,'Pecorine','Want to join a Clan?\nIt''s a lot more fun\ngoing on adventures\nas a team!',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
+INSERT INTO "navi_comment" VALUES(17002,17,105901,1,'Kokkoro','Here you can look back\nat the activities of\nfriends who participated\nin Clan Battles.',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
+INSERT INTO "navi_comment" VALUES(17004,25,106001,1,'Karyl','Looks like you can\nsave Battle Records\nof your favorite\npractice runs.',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
+INSERT INTO "navi_comment" VALUES(17005,25,105901,1,'Kokkoro','My lord, your activities\nin this Clan Battle have\nbeen recorded. You can now\nreview them for future battles.',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
+INSERT INTO "navi_comment" VALUES(17006,25,105801,1,'Pecorine','You can go over your\nBattle Record for this\nClan Battle!\nLet me have a look too!',1,'2015/12/17 15:00:00','2030/12/17 14:59:59',-363.0,0.0,0.0,1,0);
 COMMIT;

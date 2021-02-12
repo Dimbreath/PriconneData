@@ -1,3 +1,16 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'clan_battle_period_rank_reward' ('id' INTEGER NOT NULL, 'clan_battle_id' INTEGER NOT NULL, 'period' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, 'ranking_bonus_group' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_num_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_num_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_num_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO "clan_battle_period_rank_reward" VALUES(1,1001,1,1,10,0,8,91002,10000,2,90006,5000,2,31043,30,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(2,1001,1,11,25,0,8,91002,8000,2,90006,5000,2,31043,30,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(3,1001,1,26,50,0,8,91002,6000,2,90006,5000,2,31043,30,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(4,1001,1,51,150,0,8,91002,4500,2,90006,4500,2,31043,25,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(5,1001,1,151,300,0,8,91002,4000,2,90006,4000,2,31043,20,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(6,1001,1,301,700,0,8,91002,3500,2,90006,3500,2,31043,18,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(7,1001,1,701,1500,0,8,91002,3000,2,90006,3000,2,31043,16,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(8,1001,1,1501,3000,0,8,91002,2500,2,90006,2500,2,31043,14,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(9,1001,1,3001,5000,0,8,91002,2000,2,90006,2000,2,31043,12,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(10,1001,1,5001,7000,0,8,91002,1500,2,90006,1500,2,31043,10,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(11,1001,1,7001,10000,0,8,91002,1000,2,90006,1000,2,31043,8,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(12,1001,1,10001,15000,0,8,91002,750,2,90006,750,2,31043,7,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_rank_reward" VALUES(13,1001,1,15001,-1,0,8,91002,500,2,90006,500,2,31043,5,0,0,0,0,0,0);
 COMMIT;

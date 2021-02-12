@@ -1,4 +1,11 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'gacha_exchange_lineup' ('id' INTEGER NOT NULL, 'exchange_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO "gacha_exchange_lineup" VALUES(1,2,104701,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(2,3,102601,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(3,3,101001,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(4,3,104301,3);
+INSERT INTO "gacha_exchange_lineup" VALUES(5,3,101701,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(6,3,103301,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(7,3,103801,2);
+INSERT INTO "gacha_exchange_lineup" VALUES(8,3,105201,1);
 COMMIT;
