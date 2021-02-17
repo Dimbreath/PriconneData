@@ -264,4 +264,10 @@ INSERT INTO "notif_data" VALUES(102601,3,'Your stamina at the guildhouse is all 
 INSERT INTO "notif_data" VALUES(102601,4,'Those EXP potions at the guildhouse are all full. I''m still gonna laze about if you use them on me, though.');
 INSERT INTO "notif_data" VALUES(102601,5,'You see all that Mana at the guildhouse? Go collect it so you can buy me some games and high-grade sweet buns.');
 INSERT INTO "notif_data" VALUES(102601,6,'All your items at the guildhouse are full. Phew... Notifications sure are exhausting.');
+INSERT INTO "notif_data" VALUES(106301,1,'Your stamina''s all full! Time to go search for Losaria!');
+INSERT INTO "notif_data" VALUES(106301,2,'Your skip tickets at the guildhouse are full! It''d be nice if you showed me more places outside the city.');
+INSERT INTO "notif_data" VALUES(106301,3,'Your stamina at the guildhouse is all full! Come help me train for my forest guardian trial!');
+INSERT INTO "notif_data" VALUES(106301,4,'Look at all those EXP potions at the guildhouse! Maybe they''ll help me become a full-fledged forest guardian?');
+INSERT INTO "notif_data" VALUES(106301,5,'Your Mana at the guildhouse is full! I''m almost out of arrows, so that''s perfect!');
+INSERT INTO "notif_data" VALUES(106301,6,'All your items at the guildhouse are full! They''re gonna go to waste if you leave them there!');
 COMMIT;

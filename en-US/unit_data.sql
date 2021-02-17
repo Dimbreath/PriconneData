@@ -55,6 +55,7 @@ INSERT INTO "unit_data" VALUES(105701,'Djeeta','Djeeta',105701,3,4,4,450,245,1,1
 INSERT INTO "unit_data" VALUES(105801,'Pecorine','Pecorine',105801,1,5,5,450,155,1,2.25,105801,0,1,0,'[Physical] An always-hungry fighter who protects her friends from the vanguard. Has high HP and self-healing skills, which enable her to shield allies until the bitter end.',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(105901,'Kokkoro','Kokkoro',105901,1,6,6,450,500,1,2.34,105901,0,1,0,'[Physical] A devoted guide that supports everyone from the midguard with buffs and attacks. Her Union Burst boosts the attack power of all allies while also healing her, allowing to stay in action for extended periods.',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(106001,'Karyl','Karyl',106001,1,7,7,450,750,2,2.07,106001,0,1,0,'[Magic] A willful catgirl that casts powerful attacks from the rearguard that hit all foes. Her skills lower both magical and physical defense, making her an easy choice for winning in any lineup.',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(106301,'Arisa','Arisa',106301,3,8,8,450,625,1,1.97,106301,0,1,0,'[Physical] An aspiring forest guardian who excels at drawn-out\nbattles from the rearguard. TP recovery allows quick\nuse of her Union Burst, which also boosts skill effects\nfor greater attack power.',0,'2021/02/17 23:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(106801,'Labyrista','Labyrista',106801,1,0,0,0,0,0,0.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(107101,'Christina','Christina',107101,3,10,4,450,290,1,2.0,0,0,2,0,'[Physical] The peerless Regina Geas who exerts her dominance from the front lines. Her terrifyingly destructive Union Burst annihilates foes while also protecting her from harm, and thanks to a TP-boosting skill, she uses it with alarming frequency.',0,'2019/02/15 23:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(190801,'Karin','Karin',190801,1,1,1,0,0,1,0.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
@@ -69,8 +70,10 @@ INSERT INTO "unit_data" VALUES(900102,'Hiyori','Hiyori',900102,1,0,1,600,675,1,5
 INSERT INTO "unit_data" VALUES(900201,'Yui','Yui',100201,1,7,7,600,800,2,2.27,100201,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(900202,'Yui','Yui',900202,1,0,7,600,1075,2,50.0,100299,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(900302,'Rei','Rei',900302,1,0,4,600,875,1,50.0,100399,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(901201,'Hatsune','Hatsune',901201,1,7,7,600,755,2,50.0,101201,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(902501,'Suzume','Suzume',102501,1,7,7,600,450,2,2.25,102501,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(902601,'Rin','Rin',902601,1,6,6,450,630,1,2.315,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(903801,'Shiori','Shiori',903801,1,8,8,450,710,1,50.0,103801,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(905801,'Pecorine','Pecorine',105801,1,0,5,600,200,1,2.5,105801,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(905901,'Kokkoro','Kokkoro',105901,1,6,6,600,400,1,2.0,105901,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(905902,'Kokkoro','Kokkoro',105901,1,6,6,600,800,1,2.0,105901,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');

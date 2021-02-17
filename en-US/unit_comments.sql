@@ -440,4 +440,14 @@ INSERT INTO "unit_comments" VALUES(1060007,106031,1,2,1,0.0,1,'Isn''t my magic a
 INSERT INTO "unit_comments" VALUES(1060008,106031,1,3,1,0.0,1,'Perfect! I''m really getting good at this. I guess I just needed to put in the work!');
 INSERT INTO "unit_comments" VALUES(1060009,106031,1,4,1,0.0,1,'Spectacular, right? Until recently I was a total beginner. Hey, act a little surprised!');
 INSERT INTO "unit_comments" VALUES(1060010,106031,1,5,1,0.0,1,'I''m decent at healing magic, too. If by some chance you get hurt, I can probably save you.');
+INSERT INTO "unit_comments" VALUES(1063001,106301,1,1,6,5.8,1,'Landosol''s amazing. It''s so huge, with so much to do! Totally the opposite of my village.');
+INSERT INTO "unit_comments" VALUES(1063002,106301,1,2,2,5.3,1,'My village is a nice place. There''s really nothing there, but I know you''d like it!');
+INSERT INTO "unit_comments" VALUES(1063003,106301,1,3,6,6.1,2,'You kinda remind me of Losaria. Like, for example, I feel relaxed when we''re together.');
+INSERT INTO "unit_comments" VALUES(1063004,106301,1,4,5,5.7,2,'When we''re together, my heart races and my chest gets tight. But, like, in a good way.');
+INSERT INTO "unit_comments" VALUES(1063005,106301,1,5,5,4.1,2,'Being with you makes my heart flutter... But it also puts me at ease.');
+INSERT INTO "unit_comments" VALUES(1063006,106331,1,1,1,0.0,1,'I''ll be a forest guardian one day! Along with Losaria,  of course!');
+INSERT INTO "unit_comments" VALUES(1063007,106331,1,2,1,0.0,1,'Landosol may be a big city, but the scent of the air kinda reminds me of home.');
+INSERT INTO "unit_comments" VALUES(1063008,106331,1,3,1,0.0,1,'There are fairies all over my village! I really wanna show you someday.');
+INSERT INTO "unit_comments" VALUES(1063009,106331,1,4,1,0.0,1,'Being with you makes me feel so funny inside. Excited, but calm. Relaxed, but nervous.');
+INSERT INTO "unit_comments" VALUES(1063010,106331,1,5,1,0.0,1,'I''m having a lot more fun here than back in the forest. I''m sure it''s all thanks to you!');
 COMMIT;

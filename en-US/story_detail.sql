@@ -352,6 +352,14 @@ INSERT INTO "story_detail" VALUES(1060005,1060,'Karyl Episode 5','Her Secret',0,
 INSERT INTO "story_detail" VALUES(1060006,1060,'Karyl Episode 6','The Queen of Monsters',0,0,1060005,6,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1060007,1060,'Karyl Episode 7','A Thrilling First Date',0,0,1060006,7,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1060008,1060,'Karyl Episode 8','Working Towards One''s Happiness',0,0,1060007,8,106001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063001,1063,'Arisa Episode 1','Nature''s Guidance',0,0,0,0,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063002,1063,'Arisa Episode 2','The Verdant Steward',0,0,1063001,2,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063003,1063,'Arisa Episode 3','Harvest Festival',0,0,1063002,3,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063004,1063,'Arisa Episode 4','Pixie Mischief',0,0,1063003,4,106301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063005,1063,'Arisa Episode 5','Elven Archery',0,0,1063004,5,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063006,1063,'Arisa Episode 6','Forest of Dreams',0,0,1063005,6,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063007,1063,'Arisa Episode 7','The Elven Wanderer',0,0,1063006,7,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1063008,1063,'Arisa Episode 8','Pixie Paradise',0,0,1063007,8,106301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -380,6 +388,9 @@ INSERT INTO "story_detail" VALUES(2004003,2004,'Chapter 4 Episode 3','A Not-So-P
 INSERT INTO "story_detail" VALUES(2004004,2004,'Chapter 4 Episode 4','Everyone''s Courage',5,0,2004003,0,0,11008007,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2004005,2004,'Chapter 4 Episode 5','Tit for Tat',5,1,2004004,0,0,11008015,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2004010,2004,'Chapter 4 Interlude','Interlude 5',5,0,2004005,0,0,11008015,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2005001,2005,'Chapter 5 Episode 1','Nightmare and the Beastfolk',5,0,2004010,0,0,11009005,0,8,91002,20,0,0,0,0,0,0,'2021/02/17 23:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2005002,2005,'Chapter 5 Episode 2','Dance of Death',5,0,2005001,0,0,11009010,0,8,91002,20,0,0,0,0,0,0,'2021/02/17 23:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2005003,2005,'Chapter 5 Episode 3','Eternal Society',5,0,2005002,0,0,11009015,0,8,91002,20,0,0,0,0,0,0,'2021/02/17 23:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

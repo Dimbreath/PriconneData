@@ -44,4 +44,5 @@ INSERT INTO "unlock_unit_condition" VALUES(105701,'Djeeta',1,0,1,2,31057,145,0,0
 INSERT INTO "unlock_unit_condition" VALUES(105801,'Pecorine',1,0,1,2,31058,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(105901,'Kokkoro',1,0,1,2,31059,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(106001,'Karyl',1,0,1,2,31060,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(106301,'Arisa',1,0,1,2,31063,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;

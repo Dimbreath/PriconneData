@@ -44,4 +44,5 @@ INSERT INTO "actual_unit_background" VALUES(105731,'Djeeta',510230,2);
 INSERT INTO "actual_unit_background" VALUES(105831,'Eustiana von Astraea',510300,4);
 INSERT INTO "actual_unit_background" VALUES(105931,'Kokoro Natsume',510120,2);
 INSERT INTO "actual_unit_background" VALUES(106031,'Kiruya Momochi',510350,2);
+INSERT INTO "actual_unit_background" VALUES(106331,'Arisa',510350,4);
 COMMIT;

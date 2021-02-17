@@ -155,6 +155,8 @@ INSERT INTO "skill_data" VALUES(1043002,'Hard Slash',0,0,1.125,104300201,0,0,0,0
 INSERT INTO "skill_data" VALUES(1043003,'Heroic Howl',0,0,1.895,104300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lowers physical defense of an enemy directly in front by a moderate amount.',2004);
 INSERT INTO "skill_data" VALUES(1043501,'Raging Wolf Fang',0,0,0.0,104350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1043511,'Raging Wolf Fang+',0,0,0.0,104351101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1044501,'EX Skill 1',0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1044511,'EX Skill 1+',0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1045001,'Throes of Ecstasy',1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.',1013);
 INSERT INTO "skill_data" VALUES(1045002,'Play with Me Instead!',1,0,0.375,104500201,104500202,0,0,0,0,0,0,0,0,0,0,0,0,'[Taunt] Taunts all enemies. Small boost to own physical defense.',2012);
 INSERT INTO "skill_data" VALUES(1045003,'I Like It Rough!',1,0,1.375,104500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense.',2003);
@@ -200,6 +202,9 @@ INSERT INTO "skill_data" VALUES(1053002,'Flügel Fanfare',1,0,1.06,105300201,105
 INSERT INTO "skill_data" VALUES(1053003,'Musket Shot',0,0,0.86,105300301,105300302,0,0,0,0,0,0,105300301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and inflicts Stun.',2001);
 INSERT INTO "skill_data" VALUES(1053501,'Blessing of the White Wings',0,0,0.0,105350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1053511,'Blessing of the White Wings+',0,0,0.0,105351101,105351102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to physical defense at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1055001,'Violetshock Flare',0,0,0.0,105500101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to all enemies in range.',1001);
+INSERT INTO "skill_data" VALUES(1055002,'Curely Cheer',0,0,1.23,105500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to physical attack and physical defense of all allies.',1003);
+INSERT INTO "skill_data" VALUES(1055003,'Bravely Cheer',1,0,1.23,105500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to magic attack and magic defense of all allies.',1003);
 INSERT INTO "skill_data" VALUES(1057001,'Tempest Blade',1,0,0.0,105700101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals massive physical damage to an enemy directly in front.',1001);
 INSERT INTO "skill_data" VALUES(1057002,'Wide Blade',1,0,1.125,105700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front.',2001);
 INSERT INTO "skill_data" VALUES(1057003,'Weapon Burst',1,0,1.125,105700301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers own TP by a moderate amount.',2006);
@@ -220,6 +225,11 @@ INSERT INTO "skill_data" VALUES(1060002,'Lightning Sphere',1,0,1.27,106000201,0,
 INSERT INTO "skill_data" VALUES(1060003,'Reduce Armor',1,0,0.83,106000301,106000302,0,0,0,0,0,0,106000301,0,0,0,0,0,'Lowers physical and magical defense of an enemy directly in front by a small amount.',2004);
 INSERT INTO "skill_data" VALUES(1060501,'Dark Eclipse',0,0,0.0,106050101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1060511,'Dark Eclipse+',0,0,0.0,106051101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1063001,'I''ll Fill You With Arrows!',1,0,0.0,106300101,106300102,106300103,106300104,0,0,0,0,0,0,0,0,0,0,'Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.',1001);
+INSERT INTO "skill_data" VALUES(1063002,'Clinging Vines',1,0,0.75,106300201,106300202,0,0,0,0,0,0,106300201,0,0,0,0,0,'Deals small physical damage to the enemy with the highest magical attack and reduces their action speed by a small amount.',2001);
+INSERT INTO "skill_data" VALUES(1063003,'Shimmering Wings',1,0,1.35,106300301,106300302,106300303,0,0,0,0,0,0,0,0,0,0,0,'Recovers own TP by a moderate amount. This amount increases if "I''ll Fill You With Arrows!" has been used.',2006);
+INSERT INTO "skill_data" VALUES(1063501,'Elven Archery',0,0,0.0,106350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1063511,'Elven Archery+',0,0,0.0,106351101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(2001001,'',0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2002001,'',1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2003001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
@@ -275,6 +285,9 @@ INSERT INTO "skill_data" VALUES(3002006,'',1,0,3.0,300200601,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3003001,'',1,0,3.0,300300101,300300102,300300103,0,0,0,0,0,300300101,300300102,0,0,0,0,'Nightmare',1001);
 INSERT INTO "skill_data" VALUES(3003002,'',1,0,3.0,300300201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Purple Boom',1001);
 INSERT INTO "skill_data" VALUES(3003003,'',1,0,2.5,300300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Dream Shackles',1001);
+INSERT INTO "skill_data" VALUES(3003004,'',0,0,3.0,300300401,300300402,0,0,0,0,0,0,300300401,0,0,0,0,0,'Bope Skill 3',1001);
+INSERT INTO "skill_data" VALUES(3003005,'',0,0,3.0,300300501,300300502,300300503,0,0,0,0,0,300300501,300300501,0,0,0,0,'Awakening',1001);
+INSERT INTO "skill_data" VALUES(3003006,'',0,0,3.0,300300601,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3004001,'',1,0,3.0,300400101,300400102,300400103,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3004002,'',1,0,1.6,300400201,300400202,300400203,0,0,0,0,0,300400201,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3004003,'',1,0,1.6,300400301,300400302,0,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
@@ -324,6 +337,10 @@ INSERT INTO "skill_data" VALUES(3016001,'',0,0,1.5,301600101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3016002,'',0,0,1.5,301600201,301600202,301600203,0,0,0,0,0,301600201,301600202,0,0,0,0,'Ziz skill1',1001);
 INSERT INTO "skill_data" VALUES(3016003,'',0,0,1.5,301600301,301600302,0,0,0,0,0,0,301600301,0,0,0,0,0,'Ziz skill2',1001);
 INSERT INTO "skill_data" VALUES(3016004,'',0,0,1.5,301600401,301600402,0,0,0,0,0,0,301600401,0,0,0,0,0,'Ziz skill3',1001);
+INSERT INTO "skill_data" VALUES(3016011,'',0,0,1.5,301601101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ziz Skill 0',1001);
+INSERT INTO "skill_data" VALUES(3016012,'',0,0,1.5,301601201,301601202,301601203,0,0,0,0,0,301601201,301601202,0,0,0,0,'Ziz Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3016013,'',0,0,1.5,301601301,301601302,0,0,0,0,0,0,301601301,0,0,0,0,0,'Ziz Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3016014,'',0,0,1.5,301601401,301601402,301601403,0,0,0,0,0,301601401,301601401,0,0,0,0,'Ziz Skill 3',1001);
 INSERT INTO "skill_data" VALUES(3017001,'',0,0,0.0,301700101,301700102,301700103,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3017002,'',0,0,3.0,301700201,301700202,301700203,0,0,0,0,0,301700201,301700201,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3017003,'',0,0,1.5,301700301,301700302,301700303,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
@@ -379,6 +396,8 @@ INSERT INTO "skill_data" VALUES(3030003,'',0,0,2.0,303000301,303000302,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3030004,'',0,0,3.0,303000401,0,0,0,0,0,0,0,0,0,0,0,0,0,'Awakening',1001);
 INSERT INTO "skill_data" VALUES(3030005,'',0,0,3.0,303000501,0,0,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3030006,'',0,0,3.0,303000601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3032001,'',0,0,2.0,303200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3032002,'',0,0,2.0,303200201,303200202,0,0,0,0,0,0,303200201,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901002,'',0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901003,'',0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901004,'',0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
@@ -421,6 +440,7 @@ INSERT INTO "skill_data" VALUES(9004005,'',0,0,90.0,900400501,0,0,0,0,0,0,0,0,0,
 INSERT INTO "skill_data" VALUES(9004006,'',0,0,90.0,900400601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(9004007,'',0,0,90.0,900400701,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(9010004,'',0,0,0.0,901000401,0,0,0,0,0,0,0,0,0,0,0,0,0,'Restores the TP of the closest party member by a small amount.',1006);
+INSERT INTO "skill_data" VALUES(9012003,'',0,0,3.0,901200301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(9012004,'',0,0,3.0,901200401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(9012005,'',0,0,90.0,901200501,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(9017004,'',0,0,0.0,901700401,0,0,0,0,0,0,0,0,0,0,0,0,0,'Restores the TP of the closest party member by a small amount.',1006);

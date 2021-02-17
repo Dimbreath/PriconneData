@@ -51,10 +51,11 @@ INSERT INTO "unit_profile" VALUES(105301,'Monika','18','Weissflügel (Landosol B
 INSERT INTO "unit_profile" VALUES(105401,'Tsumugi','14','Carmina','humanfolk','153','45','9','7','AB','sewing','Ibuki Kido',0,'A cute girl who loves fashion','','4');
 INSERT INTO "unit_profile" VALUES(105501,'Ayumi','16','Weissflügel (Landosol Branch)','elvenfolk','155','43','4','7','O','observation','Eri Ozeki',0,'A pure-hearted girl who loves with all her heart','','15');
 INSERT INTO "unit_profile" VALUES(105601,'Ruka','25','Twilight Caravan','humanfolk','167','54','7','11','B','fishing','Rina Sato',0,'A smart and sophisticated elder sister-type overflowing with kindness','','13');
-INSERT INTO "unit_profile" VALUES(105701,'Djeeta','17','？？？','humanfolk','156','45','3','10','O','going on adventures, talking','Hisako Kanemoto',0,'A skyfarer who dreams of adventure in the skies','','');
+INSERT INTO "unit_profile" VALUES(105701,'Djeeta','17','???','humanfolk','156','45','3','10','O','going on adventures, talking','Hisako Kanemoto',0,'A skyfarer who dreams of adventure in the skies','','');
 INSERT INTO "unit_profile" VALUES(105801,'Pecorine','17','Gourmet Guild','humanfolk','156','46','3','31','O','eating, cooking','M・A・O',0,'A girl who''s always cheerful and hungry','','1');
 INSERT INTO "unit_profile" VALUES(105901,'Kokkoro','11','Gourmet Guild','elvenfolk','140','35','5','11','B','meditating, raising plants and animals','Miku Ito',0,'A little guide who takes care of her lord','','1');
 INSERT INTO "unit_profile" VALUES(106001,'Karyl','14','Gourmet Guild','beastfolk','152','39','9','2','A','playing with cats','Rika Tachibana',0,'A mysterious, cat-eared sorceress discovered lying unconscious','','1');
+INSERT INTO "unit_profile" VALUES(106301,'Arisa','15','???','elvenfolk','155','42','6','17','O','collecting pretty leaves','Kana Yuki',0,'A young elf striving to become a forest guardian','','');
 INSERT INTO "unit_profile" VALUES(106801,'Labyrista','??','Labyrinth','humanfolk','???','??','?','?','?','people watching','Miyuki Sawashiro',0,'？？？？？？？','','3');
 INSERT INTO "unit_profile" VALUES(107101,'Christina','27','Nightmare, Defenders of the Throne','humanfolk','165','??','2','7','O','fighting strong opponents','Chiaki Takahashi',0,'The audacious vice-captain of Nightmare','','8');
 COMMIT;

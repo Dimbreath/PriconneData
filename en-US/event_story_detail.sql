@@ -1,3 +1,11 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'event_story_detail' ('story_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'visible_type' INTEGER NOT NULL, 'story_end' INTEGER NOT NULL, 'pre_story_id' INTEGER NOT NULL, 'love_level' INTEGER NOT NULL, 'requirement_id' INTEGER NOT NULL, 'unlock_quest_id' INTEGER NOT NULL, 'story_quest_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_value_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_value_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_value_3' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_id'));
+INSERT INTO "event_story_detail" VALUES(5001000,5001,'Opening','Operation: Hatsune''s Perfect Present!',0,0,0,0,0,0,0,8,91002,20,2,31012,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001001,5001,'Episode 1','A Walk Down Memory Lane',0,0,5001000,0,0,0,0,8,91002,20,2,31038,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001002,5001,'Episode 2','A Curious Find',0,0,5001001,0,0,0,0,8,91002,20,2,31012,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001003,5001,'Episode 3','My Dear Sister',0,0,5001002,0,0,0,0,8,91002,20,2,31038,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001004,5001,'Episode 4','Evil Unsealed',0,0,5001003,0,0,0,55001004,8,91002,20,2,31012,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001005,5001,'Episode 5','Resonating Hearts',0,0,5001004,0,0,0,0,8,91002,20,2,31038,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001006,5001,'Episode 6','The Power of Three',0,0,5001005,0,0,0,55001006,8,91002,20,2,31012,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5001007,5001,'Ending','Hatsune''s Perfect Present',0,0,5001006,0,0,0,0,8,91002,20,2,31038,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
 COMMIT;

@@ -28,7 +28,7 @@ INSERT INTO "item_data" VALUES(31020,'Mimi''s Memory Shard','A shard of Mimi''s
 INSERT INTO "item_data" VALUES(31021,'Kurumi''s Memory Shard','A shard of Kurumi''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31021,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31022,'Yori''s Memory Shard','A shard of Yori''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31022,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31025,'Suzume''s Memory Shard','A shard of Suzume''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31025,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
-INSERT INTO "item_data" VALUES(31026,'Rin''s Memory Shard','A shard of Rin''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31058,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(31026,'Rin''s Memory Shard','A shard of Rin''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31026,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31027,'Eriko''s Memory Shard','A shard of Eriko''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31027,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31028,'Saren''s Memory Shard','A shard of Saren''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31028,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31029,'Nozomi''s Memory Shard','A shard of Nozomi''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31029,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
@@ -54,9 +54,15 @@ INSERT INTO "item_data" VALUES(31057,'Djeeta''s Memory Shard','A shard of Djeet
 INSERT INTO "item_data" VALUES(31058,'Pecorine''s Memory Shard','A shard of Pecorine''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31058,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31059,'Kokkoro''s Memory Shard','A shard of Kokkoro''s sealed memories. Collect these items to unleash your characters'' hidden power. ',1,11,31059,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31060,'Karyl''s Memory Shard','A shard of Karyl''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31060,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(31063,'Arisa''s Memory Shard','A shard of Arisa''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31063,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50001,'Churro Heart','Used in the Guildhouse. Adds 10 character bond points.',1,7,10,200,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50002,'Apple Pie','Used in the Guildhouse. Adds 20 character bond points.',2,7,20,400,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50003,'Mixed Berry Cake','Used in the Guildhouse. Adds 30 character bond points.',3,7,30,600,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(60001,'Boss Ticket','A ticket that you can obtain during the event. Spend them to participate in boss battles. ',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60002,'Victory Medal','A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60011,'Boss Ticket','A ticket that you can obtain during the event. Spend them to participate in boss battles. ',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60012,'Victory Medal','A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60131,'Boss Ticket','A ticket that you can obtain during the event. Spend them to participate in boss battles. ',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
 INSERT INTO "item_data" VALUES(90002,'Dungeon Coins','A special currency that can only be earned in the dungeon. You can use it at the dungeon shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90003,'Arena Coins','A special currency that can only be earned in the arena. You can use it at the arena shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90004,'Princess Arena Coins','A special currency that can only be earned in the Princess Arena. You can use it in the Princess Arena shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
@@ -64,4 +70,5 @@ INSERT INTO "item_data" VALUES(90005,'Divine Amulet','A mysterious stone with my
 INSERT INTO "item_data" VALUES(90006,'Clan Coins','A special currency that can only be earned in Clan Battles. You can use it at the clan shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90007,'Rupies','Astrum''s currency, which is essential for food, clothing, and housing in this world. You can use it at the guildhouse shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(99001,'Full Plate Armor','Used to refine a character''s equipment. Adds 10 equipment refinement points.',2,99,10,0,999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(99002,'Random Equipment Box','Various random equipment can be obtained.',2,6,0,0,1,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 COMMIT;
