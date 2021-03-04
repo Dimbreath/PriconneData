@@ -119,6 +119,13 @@ INSERT INTO "chara_story_status" VALUES(1022005,'Yori''s Episode 5',4,40,0,0,0,0
 INSERT INTO "chara_story_status" VALUES(1022006,'Yori''s Episode 6',4,40,3,4,0,0,0,0,0,0,1022,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1022007,'Yori''s Episode 7',4,40,3,4,0,0,0,0,0,0,1022,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1022008,'Yori''s Episode 8',4,60,3,6,9,4,0,0,0,0,1022,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023002,'Ayane''s Episode 2',2,15,0,0,0,0,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023003,'Ayane''s Episode 3',2,30,0,0,0,0,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023004,'Ayane''s Episode 4',2,30,0,0,0,0,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023005,'Ayane''s Episode 5',2,40,0,0,0,0,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023006,'Ayane''s Episode 6',2,40,1,200,0,0,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023007,'Ayane''s Episode 7',2,40,1,200,0,0,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1023008,'Ayane''s Episode 8',2,60,1,300,6,10,0,0,0,0,1023,1086,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1025002,'Suzume''s Episode 2',4,15,0,0,0,0,0,0,0,0,1025,1077,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1025003,'Suzume''s Episode 3',4,15,0,0,0,0,0,0,0,0,1025,1077,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1025004,'Suzume''s Episode 4',4,30,0,0,0,0,0,0,0,0,1025,1077,0,0,0,0,0,0,0,0);

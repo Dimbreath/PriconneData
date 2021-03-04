@@ -190,4 +190,15 @@ INSERT INTO "room_item_detail" VALUES(155,1,'The walls of the Caon guildhouse, r
 INSERT INTO "room_item_detail" VALUES(156,1,'A colorful floor arrangement featuring a variety of traditional rugs. Certain to brighten up any room with its unusual, folksy vibe.',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "room_item_detail" VALUES(157,1,'A cute spiral staircase decked out in pink and white. Climbing its steps is sure to make you feel like a princess at a grand ball.',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "room_item_detail" VALUES(158,1,'A cute spiral staircase leading down to the floor below. Its elegant pillar features a small alcove holding a single candlestick.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(201,1,'A chic, black lacquered chair. Carved using traditional techniques, its confident lines reflect the artisan''s artistic flair.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(202,1,'A chic, black lacquered table. Popular with the refined ladies of Landosol, perhaps for its air of eminence and class.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(203,1,'A chic, black lacquered stool. The cherry blossom design on the front heralds the coming of spring. Naturally, it''s also very comfy to sit on.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(204,1,'A must for any traditional eastern-style room. Woven from the pith of the soft rush plant, these mats have an inviting scent and texture that make you want to lie down atop them.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(205,1,'An ornate folding screen decorated with real gold. While it can be used as a separator in a luxury room, it also qualifies as an art piece in its own right.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(206,1,'A lantern decorated with a cherry blossom pattern. Crafted using a sturdy wooden frame and high-quality paper. When lit, the cherry blossoms seem to glow of their own accord.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(207,1,'A unique structure designed to bring the traditional eastern tearoom experience into your own home. Comes complete with its own selection of teas and sweet treats.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(208,1,'A bell used in shrine ceremonies. In the hands of a traditional dancer, its tinkling peals ring out in time to the elegant motions. Wave it about too much, though, and you might annoy people.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(209,1,'This tree embodies the spirit of spring. Beneath its branches, any scene transforms into a delightful picnic. Its fluttering blossoms are a treat for all the senses.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(210,1,'A traditional sliding screen wall imported from a far-eastern land. Decorated with spring-themed imagery to brighten the hearts of all who see it.',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "room_item_detail" VALUES(211,1,'A sophisticated wooden floor decorated with a fine red carpet. The perfect backdrop to a set of spring-themed furnishings.',0,0,0,0,0,0,0,0,0,0);
 COMMIT;

@@ -170,6 +170,16 @@ INSERT INTO "unit_comments" VALUES(1022007,102231,1,2,1,0.0,1,'What a pretty mea
 INSERT INTO "unit_comments" VALUES(1022008,102231,1,3,1,0.0,1,'I kinda like places like this, you know. I... am a girl, after all.');
 INSERT INTO "unit_comments" VALUES(1022009,102231,1,4,1,0.0,1,'Since we have all these flowers here... He loves me, he loves me not... Eep!');
 INSERT INTO "unit_comments" VALUES(1022010,102231,1,5,1,0.0,1,'Does bringing me here mean you''re sort of treating me like a proper girl, maybe?');
+INSERT INTO "unit_comments" VALUES(1023001,102301,1,1,1,4.2,5,'Pukichi''s my dearest friend, so try to get along with him!');
+INSERT INTO "unit_comments" VALUES(1023002,102301,1,2,2,4.1,1,'I came to the Orphanage first, so I''m like the big sister, and you''re like my little brother!');
+INSERT INTO "unit_comments" VALUES(1023003,102301,1,3,5,3.7,2,'You, me, and Pukichi! Together, we''re unstoppable!');
+INSERT INTO "unit_comments" VALUES(1023004,102301,1,4,3,2.6,1,'Pukichi was pretty annoyed at you ''cause you don''t play with us enough.');
+INSERT INTO "unit_comments" VALUES(1023005,102301,1,5,6,2.9,2,'Do you like Pukichi? I love him! Every bit as much as I love you!');
+INSERT INTO "unit_comments" VALUES(1023006,102331,1,1,1,0.0,1,'W-wake up! Pukichi will clobber you if you don''t watch where you''re going!');
+INSERT INTO "unit_comments" VALUES(1023007,102331,1,2,1,0.0,1,'Hi-yah! Back off, ya mangy monsters! Ack, no! Don''t go near him!');
+INSERT INTO "unit_comments" VALUES(1023008,102331,1,3,1,0.0,1,'Watch me, watch me! I''ve been practicing my Pukichi Fullswings! Check this out!');
+INSERT INTO "unit_comments" VALUES(1023009,102331,1,4,1,0.0,1,'Hey! Are you hurt? Any wounds? It''s okay now—Pukichi and I are here to help!');
+INSERT INTO "unit_comments" VALUES(1023010,102331,1,5,1,0.0,1,'Stay away, you dumb monsters! Let''s do this, Pukichi! "You got it, Ayane!"');
 INSERT INTO "unit_comments" VALUES(1025001,102501,1,1,4,6.0,6,'Sorry I always mess up. I''ll atone by committing seppuku! Huh? That''d be worse?');
 INSERT INTO "unit_comments" VALUES(1025002,102501,1,2,1,2.5,6,'I''ll attend to your every— Waahh! I... I bumped my head...');
 INSERT INTO "unit_comments" VALUES(1025003,102501,1,3,1,4.0,4,'Cooking, laundry, cleaning... I''ve got so much to do, it''s making my head spin!');

@@ -85,6 +85,11 @@ INSERT INTO "skill_data" VALUES(1022002,'Overcharge',0,0,1.25,102200201,10220020
 INSERT INTO "skill_data" VALUES(1022003,'Shadow Blast',1,0,0.98,102200301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies in range.',2002);
 INSERT INTO "skill_data" VALUES(1022501,'Lightning Surge',0,0,0.0,102250101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1022511,'Lightning Surge+',0,0,0.0,102251101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1023001,'Pukichi Fullswing',0,0,0.0,102300101,102300102,102300103,102300104,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front, inflicts Stun, and knocks it back a large distance.',1001);
+INSERT INTO "skill_data" VALUES(1023002,'Pukichi Pummel',0,0,1.125,102300201,102300202,0,0,0,0,0,0,102300201,0,0,0,0,0,'Deals small physical damage and inflicts Stun to all enemies in range.',2018);
+INSERT INTO "skill_data" VALUES(1023003,'Pukichi Hurricane',0,0,0.855,102300301,102300302,0,0,0,0,0,0,102300301,0,0,0,0,0,'Deals small physical damage to all enemies in range and lowers their physical defense by a small amount.',2001);
+INSERT INTO "skill_data" VALUES(1023501,'Pretty Pulverizer',0,0,0.0,102350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1023511,'Pretty Pulverizer+',0,0,0.0,102351101,102351102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to magical defense at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1025001,'Whirlwind',1,0,0.0,102500101,102500102,102500103,102500104,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies in range and lowers their physical defense by a small to moderate amount.',1002);
 INSERT INTO "skill_data" VALUES(1025002,'Wind Blast',1,0,1.6,102500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals small magical damage to all enemies in range.',2002);
 INSERT INTO "skill_data" VALUES(1025003,'Maid''s Comfort',1,0,1.46,102500301,102500302,0,0,0,0,0,0,102500301,0,0,0,0,0,'Recovers HP and boosts physical attack of all nearby allies by a small amount.',2005);
@@ -263,10 +268,12 @@ INSERT INTO "skill_data" VALUES(2037001,'',0,0,3.0,203700101,203700102,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2042001,'',1,0,5.0,204200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2043001,'',1,0,3.0,204300101,204300102,0,0,0,0,0,0,204300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2044001,'',1,0,3.0,204400101,204400102,0,0,0,0,0,0,204400101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
+INSERT INTO "skill_data" VALUES(2046001,'',1,0,3.5,204600101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2047001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2047002,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2047003,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2051001,'',0,0,3.0,205100101,205100102,205100103,0,0,0,0,0,0,205100102,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2052001,'',1,0,3.0,205200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2053001,'',1,0,3.0,205300101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2054001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2055001,'',0,0,3.0,205500101,205500102,205500103,0,0,0,0,0,205500101,205500102,0,0,0,0,'sample',1001);
@@ -333,10 +340,10 @@ INSERT INTO "skill_data" VALUES(3014006,'',0,0,3.0,300100601,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3015001,'',0,0,2.0,301500101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ulfhedinn Skill 1',1001);
 INSERT INTO "skill_data" VALUES(3015002,'',0,0,2.0,301500201,301500202,0,0,0,0,0,0,301500201,0,0,0,0,0,'Ulfhedinn Skill 2',1001);
 INSERT INTO "skill_data" VALUES(3015003,'',0,0,2.0,301500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ulfhedinn Skill 3',1001);
-INSERT INTO "skill_data" VALUES(3016001,'',0,0,1.5,301600101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ziz skill0',1001);
-INSERT INTO "skill_data" VALUES(3016002,'',0,0,1.5,301600201,301600202,301600203,0,0,0,0,0,301600201,301600202,0,0,0,0,'Ziz skill1',1001);
-INSERT INTO "skill_data" VALUES(3016003,'',0,0,1.5,301600301,301600302,0,0,0,0,0,0,301600301,0,0,0,0,0,'Ziz skill2',1001);
-INSERT INTO "skill_data" VALUES(3016004,'',0,0,1.5,301600401,301600402,0,0,0,0,0,0,301600401,0,0,0,0,0,'Ziz skill3',1001);
+INSERT INTO "skill_data" VALUES(3016001,'',0,0,1.5,301600101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ziz Skill 0',1001);
+INSERT INTO "skill_data" VALUES(3016002,'',0,0,1.5,301600201,301600202,301600203,0,0,0,0,0,301600201,301600202,0,0,0,0,'Ziz Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3016003,'',0,0,1.5,301600301,301600302,0,0,0,0,0,0,301600301,0,0,0,0,0,'Ziz Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3016004,'',0,0,1.5,301600401,301600402,0,0,0,0,0,0,301600401,0,0,0,0,0,'Ziz Skill 3',1001);
 INSERT INTO "skill_data" VALUES(3016011,'',0,0,1.5,301601101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ziz Skill 0',1001);
 INSERT INTO "skill_data" VALUES(3016012,'',0,0,1.5,301601201,301601202,301601203,0,0,0,0,0,301601201,301601202,0,0,0,0,'Ziz Skill 1',1001);
 INSERT INTO "skill_data" VALUES(3016013,'',0,0,1.5,301601301,301601302,0,0,0,0,0,0,301601301,0,0,0,0,0,'Ziz Skill 2',1001);
@@ -409,7 +416,7 @@ INSERT INTO "skill_data" VALUES(4012012,'',0,0,3.0,401201201,401201202,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(4025012,'Avalanche',0,0,3.0,402501201,402501202,0,0,0,0,0,0,402501201,0,0,0,0,0,'Lobs a boulder to deal damage to a nearby enemy.',1001);
 INSERT INTO "skill_data" VALUES(4042032,'Energy Heal',0,0,3.0,404203201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers TP of an ally.',1001);
 INSERT INTO "skill_data" VALUES(4042042,'Cure',0,0,3.0,404204201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers HP of an ally.',1001);
-INSERT INTO "skill_data" VALUES(4084022,'ヒール',0,0,3.0,408402201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Restores the HP of a party member.',1001);
+INSERT INTO "skill_data" VALUES(4084022,'Heal',0,0,3.0,408402201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Restores the HP of a party member.',1001);
 INSERT INTO "skill_data" VALUES(4084032,'Energy Heal',0,0,3.0,408403201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Restores the HP of a party member.',1001);
 INSERT INTO "skill_data" VALUES(9000002,'',0,0,3.0,900000201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(9000004,'',0,0,3.0,900000401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);

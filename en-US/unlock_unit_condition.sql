@@ -17,6 +17,7 @@ INSERT INTO "unlock_unit_condition" VALUES(101801,'Io Hasekura',1,0,1,2,31018,14
 INSERT INTO "unlock_unit_condition" VALUES(102001,'Mimi Akane',1,0,1,2,31020,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(102101,'Kurumi Kuribayashi',1,0,1,2,31021,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(102201,'Yori Kazemiya',1,0,1,2,31022,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(102301,'Ayane Hojo',1,0,1,2,31023,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(102501,'Suzume Amano',1,0,1,2,31025,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(102601,'Rin Morichika',1,0,1,2,31026,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(102701,'Eriko Kuraishi',1,0,1,2,31027,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

@@ -21,9 +21,9 @@ INSERT INTO "unit_profile" VALUES(101801,'Io','23','Lucent Academy','Demonfolk',
 INSERT INTO "unit_profile" VALUES(102001,'Mimi','10','Little Lyrical','beastfolk','117','21','4','3','O','collecting cute things','Rina Hidaka',0,'Loves singing, carrots, and rabbits','','5');
 INSERT INTO "unit_profile" VALUES(102101,'Kurumi','12','Sarendia Orphanage','humanfolk','150','40','6','9','B','watching plays, playing house','Kana Ueda',0,'A cowardly crybaby you can''t help wanting to protect','','9');
 INSERT INTO "unit_profile" VALUES(102201,'Yori','13','Diabolos','Demonfolk','150','40','11','22','O','all games','Sayuri Hara',0,'A timid girl who''s scared of strangers','','7');
-INSERT INTO "unit_profile" VALUES(102301,'Ayane','14','Sarendia Orphanage','humanfolk','148','38','5','10','B','playing indoors','Yu Serizawa',0,'She and Pukichi are never apart!','','9');
+INSERT INTO "unit_profile" VALUES(102301,'Ayane','14','Sarendia Orphanage','humanfolk','148','38','5','10','B','indoor activities','Yu Serizawa',0,'Together forever with Pukichi!','','9');
 INSERT INTO "unit_profile" VALUES(102501,'Suzume','15','Sarendia Orphanage','humanfolk','154','43','12','12','O','serving others','Aoi Yuki',0,'A clumsy maid who works hard for her mistress','','9');
-INSERT INTO "unit_profile" VALUES(102601,'Rin','17','Elizabeth Park','beastfolk','144','42','1','1','B','Anpan','Kotori Koiwai',0,'A lazybones who values play and sleep above all else','','11');
+INSERT INTO "unit_profile" VALUES(102601,'Rin','17','Elizabeth Park','beastfolk','144','42','1','1','B','Sweet Bun','Kotori Koiwai',0,'A lazybones who values play and sleep above all else','','11');
 INSERT INTO "unit_profile" VALUES(102701,'Eriko','16','Twilight Caravan','Demonfolk','154','43','7','30','B','experimenting, sewing, cooking','Chinami Hashimoto',0,'A girl who''s obsessed with her soulmate','','13');
 INSERT INTO "unit_profile" VALUES(102801,'Saren','17','Sarendia Orphanage','elvenfolk','156','43','10','4','A','management, tea parties','Yui Horie',0,'A kind, humble young lady who runs an orphanage','','9');
 INSERT INTO "unit_profile" VALUES(102901,'Nozomi','17','Carmina','humanfolk','157','40','1','24','B','watching stage performances, dancing','Yoko Hikasa',0,'A popular idol known for her singing and dancing','','4');

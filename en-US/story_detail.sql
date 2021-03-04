@@ -136,6 +136,14 @@ INSERT INTO "story_detail" VALUES(1022005,1022,'Yori Episode 5','Rare Fruit Hunt
 INSERT INTO "story_detail" VALUES(1022006,1022,'Yori Episode 6','Maybe Someday...',0,0,1022005,6,102201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1022007,1022,'Yori Episode 7','My True Feelings',0,0,1022006,7,102201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1022008,1022,'Yori Episode 8','A Sort-Of Success',0,0,1022007,8,102201,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023001,1023,'Ayane Episode 1','Ayane and Pukichi',0,0,0,0,102301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023002,1023,'Ayane Episode 2','I''m Not Scared If It''s For Family',0,0,1023001,2,102301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023003,1023,'Ayane Episode 3','So I Can Protect Them Someday',0,0,1023002,3,102301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023004,1023,'Ayane Episode 4','Birth of the Pukichi Fullswing',0,0,1023003,4,102301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023005,1023,'Ayane Episode 5','A Little Selfish',0,0,1023004,5,102301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023006,1023,'Ayane Episode 6','What I Always Wanted',0,0,1023005,6,102301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023007,1023,'Ayane Episode 7','Fake Family',0,0,1023006,7,102301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1023008,1023,'Ayane Episode 8','Pukichi''s Family Reunion',0,0,1023007,8,102301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1025001,1025,'Suzume Episode 1','Make Way for the Maid''s Demise',0,0,0,0,102501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1025002,1025,'Suzume Episode 2','Hungry, Hungry Guardian Statues',0,0,1025001,2,102501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1025003,1025,'Suzume Episode 3','The Golem Returns',0,0,1025002,3,102501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
