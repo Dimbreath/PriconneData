@@ -20,10 +20,10 @@ INSERT INTO "hatsune_stationary_mission_data" VALUES(71001017,103,601,'Clear Eve
 INSERT INTO "hatsune_stationary_mission_data" VALUES(71001018,103,601,'Clear Event Quest 1-3 (HARD)',9003,10001203,0,0,1,71001018,6005,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
 INSERT INTO "hatsune_stationary_mission_data" VALUES(71001019,103,601,'Clear Event Quest 1-4 (HARD)',9003,10001204,0,0,1,71001019,6005,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
 INSERT INTO "hatsune_stationary_mission_data" VALUES(71001020,103,601,'Clear Event Quest 1-5 (HARD)',9003,10001205,0,0,1,71001020,6005,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
-INSERT INTO "hatsune_stationary_mission_data" VALUES(71001021,104,601,'Reset the Victory Medal exchange lineup 1 time',9006,0,0,0,1,71001021,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
-INSERT INTO "hatsune_stationary_mission_data" VALUES(71001022,104,601,'Reset the Victory Medal exchange lineup 2 times',9006,0,0,0,2,71001022,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
-INSERT INTO "hatsune_stationary_mission_data" VALUES(71001023,104,601,'Reset the Victory Medal exchange lineup 3 times',9006,0,0,0,3,71001023,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
-INSERT INTO "hatsune_stationary_mission_data" VALUES(71001024,104,601,'Reset the Victory Medal exchange lineup 4 times',9006,0,0,0,4,71001024,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
+INSERT INTO "hatsune_stationary_mission_data" VALUES(71001021,104,601,'Reset the Victory Medal Exchange lineup 1 time',9006,0,0,0,1,71001021,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
+INSERT INTO "hatsune_stationary_mission_data" VALUES(71001022,104,601,'Reset the Victory Medal Exchange lineup 2 times',9006,0,0,0,2,71001022,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
+INSERT INTO "hatsune_stationary_mission_data" VALUES(71001023,104,601,'Reset the Victory Medal Exchange lineup 3 times',9006,0,0,0,3,71001023,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
+INSERT INTO "hatsune_stationary_mission_data" VALUES(71001024,104,601,'Reset the Victory Medal Exchange lineup 4 times',9006,0,0,0,4,71001024,6002,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
 INSERT INTO "hatsune_stationary_mission_data" VALUES(71001025,105,601,'Defeat Ziz 5 times (NORMAL/HARD)',9011,0,0,0,5,71001025,6008,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
 INSERT INTO "hatsune_stationary_mission_data" VALUES(71001026,105,601,'Defeat Ziz 10 times (NORMAL/HARD)',9011,0,0,0,10,71001026,6008,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');
 INSERT INTO "hatsune_stationary_mission_data" VALUES(71001027,105,601,'Defeat Ziz 15 times (NORMAL/HARD)',9011,0,0,0,15,71001027,6008,10001,'2021/02/17 23:00:00','2021/03/06 22:59:59');

@@ -6,7 +6,7 @@ INSERT INTO "skill_data" VALUES(1001003,'Kitty Combo',0,0,1.295,100100301,100100
 INSERT INTO "skill_data" VALUES(1001501,'Paw Power',0,0,0.0,100150101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1001511,'Paw Power+',0,0,0.0,100151101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1002001,'Group Heal',1,0,0.0,100200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers a moderate amount of HP for all allies.',1005);
-INSERT INTO "skill_data" VALUES(1002002,'Blooming Blast',1,0,1.6,100200201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Inflicts a moderate amount of magical damage to one enemy directly in front.',2002);
+INSERT INTO "skill_data" VALUES(1002002,'Blooming Blast',1,0,1.6,100200201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
 INSERT INTO "skill_data" VALUES(1002003,'Flower Guard',1,0,1.46,100200301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to physical defense of all allies.',2003);
 INSERT INTO "skill_data" VALUES(1002501,'Floral Aura',0,0,0.0,100250101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1002511,'Floral Aura+',0,0,0.0,100251101,100251102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack and small boost to magical defense at start of battle.',3003);
@@ -21,7 +21,7 @@ INSERT INTO "skill_data" VALUES(1004003,'Water Balloon',0,0,1.18,100400301,10040
 INSERT INTO "skill_data" VALUES(1004501,'Professional Prankster',0,0,0.0,100450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense at start of battle.',3002);
 INSERT INTO "skill_data" VALUES(1004511,'Professional Prankster+',0,0,0.0,100451101,100451102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense and small boost to physical attack at start of battle.',3002);
 INSERT INTO "skill_data" VALUES(1006001,'Little Devil''s Cheer',1,0,0.0,100600101,100600102,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to magical attack of all allies and recovers their HP based on the damage dealt by their next attack.',1003);
-INSERT INTO "skill_data" VALUES(1006002,'Shadow Bolt',0,0,1.18,100600201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Inflicts a moderate amount of magical damage to one enemy directly in front.',2002);
+INSERT INTO "skill_data" VALUES(1006002,'Shadow Bolt',0,0,1.18,100600201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
 INSERT INTO "skill_data" VALUES(1006003,'Impish Kiss',1,0,1.25,100600301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lowers magical defense of an enemy directly in front by a moderate amount.',2004);
 INSERT INTO "skill_data" VALUES(1006501,'Sweet Ignition',0,0,0.0,100650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1006511,'Sweet Ignition+',0,0,0.0,100651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
@@ -36,7 +36,7 @@ INSERT INTO "skill_data" VALUES(1008003,'The Cutest Supporter ♪',1,0,1.6,10080
 INSERT INTO "skill_data" VALUES(1008501,'The Cutest Hard Worker',0,0,0.0,100850101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1008511,'The Cutest Hard Worker+',0,0,0.0,100851101,100851102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack and small boost to physical defense at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1009001,'Demonic Salvation: Apocalypse Dawn',1,0,0.0,100900101,100900102,100900103,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies. Lowers own physical and magical defense by a massive amount after use.',1002);
-INSERT INTO "skill_data" VALUES(1009002,'Demonic Salvation: Infinity',1,0,1.58,100900201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Inflicts a moderate amount of magical damage to one enemy directly in front.',2002);
+INSERT INTO "skill_data" VALUES(1009002,'Demonic Salvation: Infinity',1,0,1.58,100900201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
 INSERT INTO "skill_data" VALUES(1009003,'Void Accession',1,2160,1.25,100900301,100900302,100900303,100900304,0,0,0,0,0,0,0,0,0,0,'[Self Destruct] Activates when HP falls to 10% or below. Deals large magical damage to all enemies in range but knocks herself out.',2017);
 INSERT INTO "skill_data" VALUES(1009501,'Hellfire of the Dark Conqueror',0,0,0.0,100950101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1009511,'Hellfire of the Dark Conqueror+',0,0,0.0,100951101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
@@ -226,7 +226,7 @@ INSERT INTO "skill_data" VALUES(1059003,'Speed Boost',0,0,1.4,105900301,10590030
 INSERT INTO "skill_data" VALUES(1059501,'Spiritual Epiphany',0,0,0.0,105950101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1059511,'Spiritual Epiphany+',0,0,0.0,105951101,105951102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to magical defense at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1060001,'Grim Burst',1,0,0.0,106000101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies.',1002);
-INSERT INTO "skill_data" VALUES(1060002,'Lightning Sphere',1,0,1.27,106000201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Inflicts a moderate amount of magical damage to one enemy directly in front.',2002);
+INSERT INTO "skill_data" VALUES(1060002,'Lightning Sphere',1,0,1.27,106000201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
 INSERT INTO "skill_data" VALUES(1060003,'Reduce Armor',1,0,0.83,106000301,106000302,0,0,0,0,0,0,106000301,0,0,0,0,0,'Lowers physical and magical defense of an enemy directly in front by a small amount.',2004);
 INSERT INTO "skill_data" VALUES(1060501,'Dark Eclipse',0,0,0.0,106050101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1060511,'Dark Eclipse+',0,0,0.0,106051101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);

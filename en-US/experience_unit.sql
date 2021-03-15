@@ -86,4 +86,7 @@ INSERT INTO "experience_unit" VALUES(83,396202);
 INSERT INTO "experience_unit" VALUES(84,417554);
 INSERT INTO "experience_unit" VALUES(85,439506);
 INSERT INTO "experience_unit" VALUES(86,462058);
+INSERT INTO "experience_unit" VALUES(87,485210);
+INSERT INTO "experience_unit" VALUES(88,508962);
+INSERT INTO "experience_unit" VALUES(89,533314);
 COMMIT;

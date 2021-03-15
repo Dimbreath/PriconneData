@@ -85,4 +85,7 @@ INSERT INTO "goldset_data_teamlevel" VALUES(82,82,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(83,83,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(84,84,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(85,85,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(86,86,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(87,87,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(88,88,0);
 COMMIT;

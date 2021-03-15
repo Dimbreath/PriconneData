@@ -399,6 +399,10 @@ INSERT INTO "story_detail" VALUES(2004010,2004,'Chapter 4 Interlude','Interlude 
 INSERT INTO "story_detail" VALUES(2005001,2005,'Chapter 5 Episode 1','Nightmare and the Beastfolk',5,0,2004010,0,0,11009005,0,8,91002,20,0,0,0,0,0,0,'2021/02/17 23:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2005002,2005,'Chapter 5 Episode 2','Dance of Death',5,0,2005001,0,0,11009010,0,8,91002,20,0,0,0,0,0,0,'2021/02/17 23:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2005003,2005,'Chapter 5 Episode 3','Eternal Society',5,0,2005002,0,0,11009015,0,8,91002,20,0,0,0,0,0,0,'2021/02/17 23:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2005004,2005,'Chapter 5 Episode 4','Omniscient Kaiser',5,0,2005003,0,0,11010005,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/18 14:59:59');
+INSERT INTO "story_detail" VALUES(2005005,2005,'Chapter 5 Episode 5','This Half-Baked World',5,0,2005004,0,0,11010011,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/19 14:59:59');
+INSERT INTO "story_detail" VALUES(2005006,2005,'Chapter 5 Episode 6','One Final Reunion',5,1,2005005,0,0,11010017,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2005010,2005,'Chapter Interlude','Interlude 6',5,0,2005006,0,0,11010017,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
