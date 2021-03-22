@@ -8,4 +8,12 @@ INSERT INTO "event_story_detail" VALUES(5001004,5001,'Episode 4','Evil Unsealed'
 INSERT INTO "event_story_detail" VALUES(5001005,5001,'Episode 5','Resonating Hearts',0,0,5001004,0,0,0,0,8,91002,20,2,31038,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5001006,5001,'Episode 6','The Power of Three',0,0,5001005,0,0,0,55001006,8,91002,20,2,31012,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5001007,5001,'Ending','Hatsune''s Perfect Present',0,0,5001006,0,0,0,0,8,91002,20,2,31038,1,0,0,0,'2021/02/17 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002000,5002,'Opening','Teach Me, Miss Kyoka!',0,0,0,0,0,0,0,8,91002,20,2,31020,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002001,5002,'Episode 1','Invitation to Exploration',0,0,5002000,0,0,0,0,8,91002,20,2,31004,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002002,5002,'Episode 2','Recipe for Friendship',0,0,5002001,0,0,0,0,8,91002,20,2,31020,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002003,5002,'Episode 3','Go Go Misogi Explorers!',0,0,5002002,0,0,0,0,8,91002,20,2,31004,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002004,5002,'Episode 4','Traps and Tribulations',0,0,5002003,0,0,0,0,8,91002,20,2,31020,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002005,5002,'Episode 5','Mutual Feelings',0,0,5002004,0,0,0,55002005,8,91002,20,2,31004,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002006,5002,'Episode 6','Lyrical Operation',0,0,5002005,0,0,0,55002006,8,91002,20,2,31020,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5002007,5002,'Ending','A 100/100 Smile',0,0,5002006,0,0,0,0,8,91002,20,2,31004,1,0,0,0,'2021/03/22 23:00:00','2030/04/24 14:59:59');
 COMMIT;

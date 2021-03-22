@@ -38,6 +38,7 @@ INSERT INTO "unit_enemy_data" VALUES(202800,'Wandering Crow',202800,0,4,270,650,
 INSERT INTO "unit_enemy_data" VALUES(202900,'Poidon',202900,0,14,270,200,1,2.5,0,0,'[Physical] Short-ranged attack.\nA poisonous, lizard-like monster\nthat leaves fatal bite wounds\nwith its sharp teeth.');
 INSERT INTO "unit_enemy_data" VALUES(202901,'Rock Lizard',202901,0,14,270,200,1,3.0,0,0,'[Physical] Short-ranged attack.\nA rock lizard-like monster\nwhose head is as tough as\nan armor.');
 INSERT INTO "unit_enemy_data" VALUES(202902,'Grass Lizard',202902,0,14,270,200,1,3.0,0,0,'[Physical] Short-ranged attack.\nA fashionista among lizards with vibrant leaves on its collar.');
+INSERT INTO "unit_enemy_data" VALUES(202903,'Rock Lizard',202903,0,14,270,2050,1,3.0,0,0,'[Physical] Short-ranged attack.\nA rock lizard-like monster\nwhose head is as tough as\nan armor.');
 INSERT INTO "unit_enemy_data" VALUES(203000,'Gellatina',203000,0,15,270,200,2,2.0,0,0,'[Magic] Short-ranged attack.\nPhysical attacks don''t land\neasily on the slick form of this\nslime.');
 INSERT INTO "unit_enemy_data" VALUES(203001,'Fire Gellatina',203001,0,15,270,200,2,2.0,0,0,'[Magic] Short-ranged attack.\nA violent Gellatina that was\ncaught in a forest fire and\nset alight.');
 INSERT INTO "unit_enemy_data" VALUES(203100,'Wyrmling',203100,0,17,270,800,2,3.5,0,0,'[Magic] Short-ranged attack.\nThe ferocious flames this\nfledgling wyrm breathes bely\nits small size.');
@@ -83,6 +84,8 @@ INSERT INTO "unit_enemy_data" VALUES(302200,'Ikt Galadion',302200,0,16,270,1000,
 INSERT INTO "unit_enemy_data" VALUES(302300,'Wise Owl',302300,0,16,270,1000,2,1.8,0,0,'');
 INSERT INTO "unit_enemy_data" VALUES(302400,'Arch Guardian',302400,0,16,270,1000,1,1.6,0,0,'');
 INSERT INTO "unit_enemy_data" VALUES(303200,'Peakie Hen',303200,0,6,270,1000,1,1.6,0,0,'[Physical] The most glamorous diva of the snowy lands. Descends amidst a raging blizzard with a flock of minions in tow to assault any who dare invade her territory.\n\n- Deals moderate magic damage to 4 characters in front and lowers their physical attack.\n\n- Deals small magic damage to 2 random characters and inflicts Freeze.');
+INSERT INTO "unit_enemy_data" VALUES(303800,'Alma',303800,0,16,270,1000,1,2.0,0,0,'[Physical] A defensive weapon that has guarded the labyrinth since long ago. It waits silently for intruders to reach the furthest point, beyond all traps.\n- Deals moderate magical damage to all enemies, based on each character''s maximum HP.\n- Deals moderate physical damage to enemies in range.');
+INSERT INTO "unit_enemy_data" VALUES(303801,'Alma',303800,0,16,270,1000,1,2.0,0,0,'[Physical] A defensive weapon that has guarded the labyrinth since long ago. It waits silently for intruders to reach the furthest point, beyond all traps.\n- Deals massive magical damage to all enemies, based on each character''s maximum HP.\n- Deals moderate physical damage to enemies in range.\n- Deals moderate magical damage to the enemy with the highest remaining HP, based on their maximum HP, and inflicts Stun.\n- When Alma''s own HP falls below 50%, its attacks become even more intense.');
 INSERT INTO "unit_enemy_data" VALUES(390100,'Omniscient Kaiser',390100,0,0,600,3000,2,15.0,0,0,'Seven Crowns Member');
 INSERT INTO "unit_enemy_data" VALUES(600101,'Hiyori''s Shadow',100101,1,1,450,200,1,2.295,0,1,'A peculiar monster bearing a striking resemblance to Hiyori.');
 INSERT INTO "unit_enemy_data" VALUES(600201,'Yui''s Shadow',100201,7,7,450,800,2,2.27,0,1,'A peculiar monster bearing a striking resemblance to Yui.');
@@ -112,6 +115,7 @@ INSERT INTO "unit_enemy_data" VALUES(603101,'Shinobu''s Shadow',103101,5,5,450,3
 INSERT INTO "unit_enemy_data" VALUES(603201,'Akino''s Shadow',103201,5,5,450,180,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Akino.');
 INSERT INTO "unit_enemy_data" VALUES(603301,'Mahiru''s Shadow',103301,6,6,450,395,1,2.34,0,1,'A peculiar monster bearing a striking resemblance to Mahiru.');
 INSERT INTO "unit_enemy_data" VALUES(603401,'Yukari''s Shadow',103401,5,5,450,405,1,2.4,0,1,'A peculiar monster bearing a striking resemblance to Yukari.');
+INSERT INTO "unit_enemy_data" VALUES(603601,'Kyoka''s Shadow',103601,7,7,450,810,2,2.07,0,1,'A peculiar monster bearing a striking resemblance to Kyoka.');
 INSERT INTO "unit_enemy_data" VALUES(603801,'Shiori''s Shadow',103801,8,8,450,710,1,1.97,0,1,'A peculiar monster bearing a striking resemblance to Shiori.');
 INSERT INTO "unit_enemy_data" VALUES(604001,'Aoi''s Shadow',104001,8,8,450,785,1,1.97,0,1,'A peculiar monster bearing a striking resemblance to Aoi.');
 INSERT INTO "unit_enemy_data" VALUES(604201,'Chika''s Shadow',104201,7,7,450,790,2,2.27,0,1,'A peculiar monster bearing a striking resemblance to Chika.');
@@ -131,4 +135,5 @@ INSERT INTO "unit_enemy_data" VALUES(605901,'Kokkoro''s Shadow',105901,6,6,450,5
 INSERT INTO "unit_enemy_data" VALUES(606001,'Karyl''s Shadow',106001,7,7,450,750,2,2.07,0,1,'A peculiar monster bearing a striking resemblance to Karyl.');
 INSERT INTO "unit_enemy_data" VALUES(606301,'Arisa''s Shadow',106301,8,8,450,625,1,1.97,0,1,'A peculiar monster bearing a striking resemblance to Arisa.');
 INSERT INTO "unit_enemy_data" VALUES(902801,'Saren''s Shadow',902801,0,4,600,350,1,2.0,0,1,'A peculiar monster bearing a striking resemblance to Saren.');
+INSERT INTO "unit_enemy_data" VALUES(912401,'Rock Lizard',912401,0,14,270,200,1,3.0,0,0,'[Physical] Short-ranged attack.\nA rock lizard-like monster\nwhose head is as tough as\nan armor.');
 COMMIT;

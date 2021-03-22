@@ -280,6 +280,16 @@ INSERT INTO "unit_comments" VALUES(1034007,103431,1,2,1,0.0,1,'Stop now, Yukari!
 INSERT INTO "unit_comments" VALUES(1034008,103431,1,3,1,0.0,1,'I feel all warm and fuzzy... Maybe it''s just because of you?');
 INSERT INTO "unit_comments" VALUES(1034009,103431,1,4,1,0.0,1,'When you''re old enough to drink, we should go out and celebrate with a few cold ones!');
 INSERT INTO "unit_comments" VALUES(1034010,103431,1,5,1,0.0,1,'What''cha say we go out on a date? Or would you rather not be seen with me?');
+INSERT INTO "unit_comments" VALUES(1036001,103601,1,1,1,5.9,5,'It''s study time right now, so please don''t talk to m—\n...Oh, don''t look so crestfallen!\nFine, I''ll play with you!');
+INSERT INTO "unit_comments" VALUES(1036002,103601,1,2,5,4.8,4,'I''ll never grow up if I don''t eat my carrots and peppers? Urgh...\nI really do want to grow, but...');
+INSERT INTO "unit_comments" VALUES(1036003,103601,1,3,2,0.0,2,'Listen to this! I grew!\nI''m a whole millimeter taller!');
+INSERT INTO "unit_comments" VALUES(1036004,103601,1,4,1,5.2,5,'I may be a child now, but I''ll be grown up in no time. When I am, maybe we can, umm...');
+INSERT INTO "unit_comments" VALUES(1036005,103601,1,5,2,0.0,2,'Heheh. You''ve been working pretty hard. Just this once, I''ll give you a pat on the head.');
+INSERT INTO "unit_comments" VALUES(1036006,103631,1,1,1,0.0,1,'You''ll protect me?\nI don''t need your assistance!\nB-but thank you all the same.');
+INSERT INTO "unit_comments" VALUES(1036007,103631,1,2,1,0.0,1,'M-my legs have gone all wobbly... This is embarrassing...');
+INSERT INTO "unit_comments" VALUES(1036008,103631,1,3,1,0.0,1,'Urgh... Why does he always have to see me at the most embarrassing moments?');
+INSERT INTO "unit_comments" VALUES(1036009,103631,1,4,1,0.0,1,'I... I''m not scared of monsters!\nB-but it was nice of you...\nto protect me...');
+INSERT INTO "unit_comments" VALUES(1036010,103631,1,5,1,0.0,1,'It''s not safe outside the city.\nThere are monsters out there.\nSo I''ll just have to protect you.');
 INSERT INTO "unit_comments" VALUES(1038001,103801,1,1,2,2.5,5,'I know a great book you should read. It''d be fun if we could talk about it together.');
 INSERT INTO "unit_comments" VALUES(1038002,103801,1,2,4,2.0,1,'*cough, hack* Umm, could you please pat my back a little?');
 INSERT INTO "unit_comments" VALUES(1038003,103801,1,3,2,7.0,5,'When I get better, I want to go somewhere far, far away with you. Maybe. Hee hee!');

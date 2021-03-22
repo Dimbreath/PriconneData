@@ -8,4 +8,12 @@ INSERT INTO "event_boss_treasure_content" VALUES(1000120102,0,0,'1000120102',1,3
 INSERT INTO "event_boss_treasure_content" VALUES(1000120103,2,60002,'0',3,33,2,60002,'0',4,34,2,60002,'0',5,33,0,0,'0',0,0,0,0,'0',0,0);
 INSERT INTO "event_boss_treasure_content" VALUES(1000120104,12,94002,'0',30000,33,12,94002,'0',32000,34,12,94002,'0',34000,33,0,0,'0',0,0,0,0,'0',0,0);
 INSERT INTO "event_boss_treasure_content" VALUES(1000120105,0,0,'eq_rank_4-7',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000210101,2,60012,'0',2,33,2,60012,'0',3,34,2,60012,'0',4,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000210102,12,94002,'0',3000,33,12,94002,'0',4000,34,12,94002,'0',5000,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000210103,0,0,'eq_rank_3-6',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000220101,0,0,'1000220101',1,3,2,60012,'0',1,97,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000220102,0,0,'1000220102',1,3,2,60012,'0',1,97,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000220103,2,60012,'0',3,33,2,60012,'0',4,34,2,60012,'0',5,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000220104,12,94002,'0',10000,33,12,94002,'0',10500,34,12,94002,'0',11000,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000220105,0,0,'eq_rank_4-7',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
 COMMIT;

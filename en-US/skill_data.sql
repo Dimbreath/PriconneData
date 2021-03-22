@@ -140,6 +140,11 @@ INSERT INTO "skill_data" VALUES(1034002,'Aqua Vitae',1,0,1.4,103400201,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(1034003,'Moonlight',1,0,1.13,103400301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers the TP of the party member with the lowest TP by a medium amount.',2006);
 INSERT INTO "skill_data" VALUES(1034501,'Liquid Courage',0,0,0.0,103450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1034511,'Liquid Courage+',0,0,0.0,103451101,103451102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense and small boost to physical attack at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1036001,'Cosmo Blue Flash',1,0,0.0,103600101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals massive magical damage to an enemy directly in front.',1002);
+INSERT INTO "skill_data" VALUES(1036002,'Ice Lance',1,0,1.83,103600201,0,0,0,0,0,0,0,103600201,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
+INSERT INTO "skill_data" VALUES(1036003,'Magical Surge',1,0,1.4,103600301,0,0,0,0,0,0,0,103600301,0,0,0,0,0,'Large boost to own magical attack for a brief period.',2003);
+INSERT INTO "skill_data" VALUES(1036501,'Pinch of Bravery',0,0,0.0,103650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1036511,'Pinch of Bravery+',0,0,0.0,103651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1038001,'Enchanted Arrow',0,0,0.0,103800101,103800102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. Large boost to own physical attack.',1001);
 INSERT INTO "skill_data" VALUES(1038002,'Triple Shot',0,0,0.76,103800201,103800202,103800203,103800204,0,0,0,0,0,0,0,0,0,0,'Deals small physical damage to up to 3 enemies directly in front. Recovers own TP by a small amount.',2001);
 INSERT INTO "skill_data" VALUES(1038003,'Wind Arrow',0,0,1.5,103800301,103800302,0,0,0,0,0,0,0,0,0,0,0,0,'Inflicts moderate physical damage to one enemy directly in front while also recovering own TP by a small amount.',2001);
@@ -259,6 +264,10 @@ INSERT INTO "skill_data" VALUES(2023001,'',1,0,3.0,202300101,202300102,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2026001,'',0,0,5.0,202600101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2028001,'',0,0,3.0,202800101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2028021,'',1,0,3.0,202800101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2029031,'',0,0,90.0,202903101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2029032,'',0,0,90.0,202903201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2029033,'',0,0,90.0,202903301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2029034,'',0,0,90.0,202903401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2033011,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2033012,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2033013,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
@@ -405,6 +414,14 @@ INSERT INTO "skill_data" VALUES(3030005,'',0,0,3.0,303000501,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3030006,'',0,0,3.0,303000601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3032001,'',0,0,2.0,303200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3032002,'',0,0,2.0,303200201,303200202,0,0,0,0,0,0,303200201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3038001,'',1,0,3.0,303800101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Alma: Union Burst',1001);
+INSERT INTO "skill_data" VALUES(3038002,'',0,0,1.5,303800201,303800202,0,0,0,0,0,0,303800201,0,0,0,0,0,'Alma: Attacks enemy with hammer',1001);
+INSERT INTO "skill_data" VALUES(3038003,'',1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,'Alma: Fires a sub-unit to attack enemy',1001);
+INSERT INTO "skill_data" VALUES(3038004,'',0,0,1.5,303800401,303800402,303800403,0,0,0,0,0,303800401,303800401,0,0,0,0,'Alma: Awakening',1001);
+INSERT INTO "skill_data" VALUES(3038011,'',1,0,3.0,303801101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Alma: Union Burst',1001);
+INSERT INTO "skill_data" VALUES(3038012,'',0,0,1.5,303801201,303801202,0,0,0,0,0,0,303801201,0,0,0,0,0,'Alma: Attacks enemy with hammer',1001);
+INSERT INTO "skill_data" VALUES(3038013,'',1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,'Alma: Fires a sub-unit to attack enemy',1001);
+INSERT INTO "skill_data" VALUES(3038014,'',0,0,1.5,303800401,303800402,303800403,0,0,0,0,0,303800401,303800401,0,0,0,0,'Alma: Awakening',1001);
 INSERT INTO "skill_data" VALUES(3901002,'',0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901003,'',0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901004,'',0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);

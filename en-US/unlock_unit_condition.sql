@@ -28,6 +28,7 @@ INSERT INTO "unlock_unit_condition" VALUES(103101,'Shinobu Kamiki',1,0,1,2,31031
 INSERT INTO "unlock_unit_condition" VALUES(103201,'Akino Todo',1,0,1,2,31032,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(103301,'Mahiru Noto',1,0,1,2,31033,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(103401,'Yukari Ayase',1,0,1,2,31034,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(103601,'Kyoka Hikawa',1,0,1,2,31036,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(103801,'Shiori Kashiwazaki',1,0,1,2,31038,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(104001,'Aoi Futaba',1,0,1,2,31040,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(104201,'Chika Misumi',1,0,1,2,31042,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

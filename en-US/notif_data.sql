@@ -168,6 +168,12 @@ INSERT INTO "notif_data" VALUES(103401,3,'Um, you''ve got full stamina at the gu
 INSERT INTO "notif_data" VALUES(103401,4,'There are lots of EXP potions at the guildhouse. These aren''t going to get me drunk, are they?');
 INSERT INTO "notif_data" VALUES(103401,5,'Your Mana is full back at the guildhouse. I say it''s high time for a drink! You''ll be having soft drinks, of course. ♪');
 INSERT INTO "notif_data" VALUES(103401,6,'Um, your items at the guildhouse are all full. I-I wish someone would give me gifts, too...');
+INSERT INTO "notif_data" VALUES(103601,1,'It looks like your stamina''s all recovered. Honestly, can you not remember anything without me reminding you?');
+INSERT INTO "notif_data" VALUES(103601,2,'The skip ticket supply in your guildhouse is full, you know. I just finished my homework, so shall we go out somewhere?');
+INSERT INTO "notif_data" VALUES(103601,3,'The extra stamina in your guildhouse seems to be full. What do you need all that stamina for? A gymnastics test?');
+INSERT INTO "notif_data" VALUES(103601,4,'Your guildhouse supply is filled up with EXP potions. Heheh... I''m going to grow up and catch you in no time!');
+INSERT INTO "notif_data" VALUES(103601,5,'Your guildhouse seems to be full of Mana. Huh? You''ll buy something for me? That''s a very suspicious offer...');
+INSERT INTO "notif_data" VALUES(103601,6,'All the supplies in your guildhouse are full to bursting. You''d forgotten all about them, hadn''t you?');
 INSERT INTO "notif_data" VALUES(103801,1,'Our stamina seems to be full again. Maybe we can go checking out bookstores a bit further afield.');
 INSERT INTO "notif_data" VALUES(103801,2,'Oh, the skip tickets at the guildhouse are full. Now I can avoid any undue physical exertion in battle.');
 INSERT INTO "notif_data" VALUES(103801,3,'It seems you have full stamina at the guildhouse. If I get stronger, maybe I can help everyone, too.');

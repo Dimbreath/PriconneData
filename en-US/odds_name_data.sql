@@ -5,4 +5,6 @@ INSERT INTO "odds_name_data" VALUES(2,'eq_rank_3-6','Rank 3~6 Equipment',99002,'
 INSERT INTO "odds_name_data" VALUES(3,'eq_rank_4-7','Rank 4~7 Equipment',99002,'Equipment required for characters at ranks 4~7.');
 INSERT INTO "odds_name_data" VALUES(4,'1000120101','Hatsune''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(5,'1000120102','Shiori''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(6,'1000220101','Misogi''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(7,'1000220102','Mimi''s Memory Shard',99002,'');
 COMMIT;

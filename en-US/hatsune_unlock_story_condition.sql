@@ -8,4 +8,12 @@ INSERT INTO "hatsune_unlock_story_condition" VALUES(5001004,10001,0,10001109,0,0
 INSERT INTO "hatsune_unlock_story_condition" VALUES(5001005,10001,0,10001112,0,0,'0');
 INSERT INTO "hatsune_unlock_story_condition" VALUES(5001006,10001,0,10001115,0,0,'0');
 INSERT INTO "hatsune_unlock_story_condition" VALUES(5001007,10001,0,0,1000101,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002000,10002,1,0,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002001,10002,0,10002103,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002002,10002,0,10002105,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002003,10002,0,10002107,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002004,10002,0,10002109,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002005,10002,0,10002112,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002006,10002,0,10002115,0,0,'0');
+INSERT INTO "hatsune_unlock_story_condition" VALUES(5002007,10002,0,0,0,71002025,'0');
 COMMIT;
