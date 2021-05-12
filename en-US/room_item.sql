@@ -165,4 +165,14 @@ INSERT INTO "room_item" VALUES(208,1,299,'Ceremonial Bell',1,1,10,0,'2021-03-04 
 INSERT INTO "room_item" VALUES(209,1,203,'Cherry Blossom Tree',1,1,10,0,'2021-03-04 23:00:00','2021-04-11 22:59:59','',1200,0,0,0,600,900165);
 INSERT INTO "room_item" VALUES(210,4,902,'Sliding Screen Wall',1,1,1,0,'2021-03-04 23:00:00','2021-04-11 22:59:59','',1200,0,0,0,600,900163);
 INSERT INTO "room_item" VALUES(211,3,901,'Red Rug Wooden Flooring',1,1,1,0,'2021-03-04 23:00:00','2021-04-11 22:59:59','',1200,0,0,0,600,900160);
+INSERT INTO "room_item" VALUES(301,1,102,'Spongy Stool (Pink)',1,1,10,0,'2021-04-11 23:00:00','','',300,0,0,0,150,900171);
+INSERT INTO "room_item" VALUES(302,1,102,'Spongy Stool (Orange)',1,1,10,0,'2021-04-11 23:00:00','','',300,0,0,0,150,900170);
+INSERT INTO "room_item" VALUES(303,1,102,'Spongy Stool (Violet)',1,1,10,0,'2021-04-11 23:00:00','','',300,0,0,0,150,900169);
+INSERT INTO "room_item" VALUES(304,1,101,'Artsy Kids'' Table',1,1,10,0,'2021-04-11 23:00:00','','',1200,0,0,0,600,900173);
+INSERT INTO "room_item" VALUES(305,1,201,'Balloon Bird Rug',1,1,10,0,'2021-04-11 23:00:00','','',1300,0,0,0,650,900172);
+INSERT INTO "room_item" VALUES(306,1,299,'Mystical Crystal Ball',1,1,10,0,'2021-04-11 23:00:00','','',600,0,0,0,300,900176);
+INSERT INTO "room_item" VALUES(307,1,299,'Mini-Gryphon Rocking Horse',1,1,10,0,'2021-04-11 23:00:00','','',900,0,0,0,450,900175);
+INSERT INTO "room_item" VALUES(308,1,299,'Box of Surprises',1,1,10,0,'2021-04-11 23:00:00','','',600,0,0,0,300,900174);
+INSERT INTO "room_item" VALUES(309,4,902,'Kids'' Decorative Wallpaper',1,1,1,0,'2021-04-11 23:00:00','','',1200,0,0,0,600,900168);
+INSERT INTO "room_item" VALUES(310,3,901,'Kids'' Decorative Flooring',1,1,1,0,'2021-04-11 23:00:00','','',1200,0,0,0,600,900167);
 COMMIT;

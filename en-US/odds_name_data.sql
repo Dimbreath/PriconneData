@@ -7,4 +7,6 @@ INSERT INTO "odds_name_data" VALUES(4,'1000120101','Hatsune''s Memory Shard',990
 INSERT INTO "odds_name_data" VALUES(5,'1000120102','Shiori''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(6,'1000220101','Misogi''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(7,'1000220102','Mimi''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(8,'1000320101','Maho''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(9,'1000320102','Kaori''s Memory Shard',99002,'');
 COMMIT;
