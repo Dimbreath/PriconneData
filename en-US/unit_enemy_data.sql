@@ -146,7 +146,6 @@ INSERT INTO "unit_enemy_data" VALUES(605001,'Misaki''s Shadow',105001,7,7,450,76
 INSERT INTO "unit_enemy_data" VALUES(605101,'Mitsuki''s Shadow',105101,5,5,450,565,1,2.25,0,1,'A peculiar monster bearing a striking resemblance to Mitsuki.');
 INSERT INTO "unit_enemy_data" VALUES(605201,'Lima''s Shadow',105201,4,4,450,105,1,2.215,0,1,'A peculiar monster bearing a striking resemblance to Lima.');
 INSERT INTO "unit_enemy_data" VALUES(605301,'Monika''s Shadow',105301,4,4,450,410,1,2.24,0,1,'A peculiar monster bearing a striking resemblance to Monika.');
-INSERT INTO "unit_enemy_data" VALUES(605401,'Tsumugi''s Shadow',105401,1,1,450,195,1,2.42,0,1,'A peculiar monster bearing a striking resemblance to Tsumugi.');
 INSERT INTO "unit_enemy_data" VALUES(605701,'Djeeta''s Shadow',105701,4,4,450,245,1,1.965,0,1,'A peculiar monster bearing a striking resemblance to Djeeta.');
 INSERT INTO "unit_enemy_data" VALUES(605801,'Pecorine''s Shadow',105801,5,5,450,155,1,2.25,0,1,'A peculiar monster bearing a striking resemblance to Pecorine.');
 INSERT INTO "unit_enemy_data" VALUES(605901,'Kokkoro''s Shadow',105901,6,6,450,500,1,2.34,0,1,'A peculiar monster bearing a striking resemblance to Kokkoro.');

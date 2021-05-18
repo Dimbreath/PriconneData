@@ -440,16 +440,6 @@ INSERT INTO "unit_comments" VALUES(1053007,105331,1,2,1,0.0,1,'The majesty of We
 INSERT INTO "unit_comments" VALUES(1053008,105331,1,3,1,0.0,1,'You seem sluggish, my lad. Meet me out on the plains at once! It''s time to train!');
 INSERT INTO "unit_comments" VALUES(1053009,105331,1,4,1,0.0,1,'I''m not a child, but I suppose I look like one to you, right? I''d like to think I don''t...');
 INSERT INTO "unit_comments" VALUES(1053010,105331,1,5,1,0.0,1,'I trust you with my life. Let us fight to our last breath with the pride of soldiers!');
-INSERT INTO "unit_comments" VALUES(1054001,105401,1,1,1,1.9,5,'Now listen here, Mr. Knight.\nIf you try anything funny with my Rei, I''ll make sure you regret it!');
-INSERT INTO "unit_comments" VALUES(1054002,105401,1,2,1,2.8,2,'I''m going to keep a close eye on you to make sure you don''t try anything with Rei!');
-INSERT INTO "unit_comments" VALUES(1054003,105401,1,3,4,2.0,1,'Oh, just look at your clothes... Come over here a second, and I''ll fix them right up for you.');
-INSERT INTO "unit_comments" VALUES(1054004,105401,1,4,4,4.8,6,'So, um... about you and Rei...\nI''m guessing you do feel something special for...\nN-no, forget it! I said nothing!');
-INSERT INTO "unit_comments" VALUES(1054005,105401,1,5,5,6.5,6,'Why do you keep being nice to me after I treated you so awfully? Don''t tell me... you want me to tie you up again?!');
-INSERT INTO "unit_comments" VALUES(1054006,105431,1,1,1,0.0,1,'I can handle any number of these monsters, as long as you''re here by my side! ...Not that I mean anything weird by that!');
-INSERT INTO "unit_comments" VALUES(1054007,105431,1,2,1,0.0,1,'You''re getting a little close there. Back off a little, would you?\nUnless you want to become the new outlet for my daily stress!');
-INSERT INTO "unit_comments" VALUES(1054008,105431,1,3,1,0.0,1,'If I have any materials left over,\nI guess I could make a little something for you, too.\nLet''s see... What would you like?');
-INSERT INTO "unit_comments" VALUES(1054009,105431,1,4,1,0.0,1,'Have you been... getting along well with Rei as usual?\n...What?! I was just curious!');
-INSERT INTO "unit_comments" VALUES(1054010,105431,1,5,1,0.0,1,'Tell me, is there anything you need me to help you with?\nJust this once, I''ll do it for free!');
 INSERT INTO "unit_comments" VALUES(1057001,105701,1,1,1,3.2,2,'Let''s do our best as fellow skyfarers! Don''t hesitate to ask if you ever need anything!');
 INSERT INTO "unit_comments" VALUES(1057002,105701,1,2,1,3.0,2,'Shall we train together? We''ll get better results working together, right?');
 INSERT INTO "unit_comments" VALUES(1057003,105701,1,3,1,0.0,1,'Once we have our airship, let''s tour the entire continent of Astraea.');

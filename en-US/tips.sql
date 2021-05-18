@@ -44,7 +44,6 @@ INSERT INTO "tips" VALUES(4105001,105001,1,'Very Sophisticated?');
 INSERT INTO "tips" VALUES(4105101,105101,1,'A Bedside Visitor');
 INSERT INTO "tips" VALUES(4105201,105201,1,'A Pure Maiden''s Dream');
 INSERT INTO "tips" VALUES(4105301,105301,1,'Bedtime Blues');
-INSERT INTO "tips" VALUES(4105401,105401,1,'A Devoted Tailor');
 INSERT INTO "tips" VALUES(4105701,105701,1,'Sky-High Dreamer');
 INSERT INTO "tips" VALUES(4105801,105801,1,'A True Gourmet');
 INSERT INTO "tips" VALUES(4105901,105901,1,'Brave New Recipes');

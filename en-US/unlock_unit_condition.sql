@@ -44,7 +44,6 @@ INSERT INTO "unlock_unit_condition" VALUES(105001,'Misaki Tamaizumi',1,0,1,2,310
 INSERT INTO "unlock_unit_condition" VALUES(105101,'Mitsuki Yoigahama',1,0,1,2,31051,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(105201,'Lima',1,0,1,2,31052,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(105301,'Monika',1,0,1,2,31053,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
-INSERT INTO "unlock_unit_condition" VALUES(105401,'Tsumugi Mayumiya',1,0,1,2,31054,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(105701,'Djeeta',1,0,1,2,31057,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1);
 INSERT INTO "unlock_unit_condition" VALUES(105801,'Pecorine',1,0,1,2,31058,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(105901,'Kokkoro',1,0,1,2,31059,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

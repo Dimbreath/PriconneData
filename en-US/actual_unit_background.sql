@@ -44,7 +44,6 @@ INSERT INTO "actual_unit_background" VALUES(105031,'Misaki Tamaizumi',510120,4);
 INSERT INTO "actual_unit_background" VALUES(105131,'Mitsuki Yoigahama',510140,2);
 INSERT INTO "actual_unit_background" VALUES(105231,'Lima',510100,2);
 INSERT INTO "actual_unit_background" VALUES(105331,'Monika Weisswind',510340,4);
-INSERT INTO "actual_unit_background" VALUES(105432,'Tsumugi Mayumiya',510351,4);
 INSERT INTO "actual_unit_background" VALUES(105731,'Djeeta',510230,2);
 INSERT INTO "actual_unit_background" VALUES(105831,'Eustiana von Astraea',510300,4);
 INSERT INTO "actual_unit_background" VALUES(105931,'Kokoro Natsume',510120,2);
