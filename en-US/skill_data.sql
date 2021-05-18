@@ -220,6 +220,11 @@ INSERT INTO "skill_data" VALUES(1053002,'Flügel Fanfare',1,0,1.06,105300201,105
 INSERT INTO "skill_data" VALUES(1053003,'Musket Shot',0,0,0.86,105300301,105300302,0,0,0,0,0,0,105300301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and inflicts Stun.',2001);
 INSERT INTO "skill_data" VALUES(1053501,'Blessing of the White Wings',0,0,0.0,105350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1053511,'Blessing of the White Wings+',0,0,0.0,105351101,105351102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to physical defense at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1054001,'Terminal Tie-Up',0,0,0.0,105400101,105400102,105400103,105400104,0,0,0,0,0,0,105400101,0,0,0,'Deals small physical damage to all enemies in range and inflicts Bind. Draws the farthest enemy in range slightly closer and knocks the closest enemy back slightly.',1007);
+INSERT INTO "skill_data" VALUES(1054002,'Threading Snare',0,0,1.23,105400201,105400202,0,0,0,0,0,0,105400201,0,0,0,0,0,'Deals small physical damage to the enemy in the 2nd position and draws them slightly closer.',2001);
+INSERT INTO "skill_data" VALUES(1054003,'Yarn-ado',0,0,1.23,105400301,105400302,105400303,0,0,0,0,0,105400301,0,0,0,0,0,'Deals small physical damage to all enemies in range and reduces their movement speed and action speed by a small amount.',2001);
+INSERT INTO "skill_data" VALUES(1054501,'Tailor''s Grit',0,0,0.0,105450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense at start of battle.',3002);
+INSERT INTO "skill_data" VALUES(1054511,'Tailor''s Grit+',0,0,0.0,105451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical defense at start of battle.',3002);
 INSERT INTO "skill_data" VALUES(1055001,'Violetshock Flare',0,0,0.0,105500101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to all enemies in range.',1001);
 INSERT INTO "skill_data" VALUES(1055002,'Curely Cheer',0,0,1.23,105500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to physical attack and physical defense of all allies.',1003);
 INSERT INTO "skill_data" VALUES(1055003,'Bravely Cheer',1,0,1.23,105500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to magic attack and magic defense of all allies.',1003);

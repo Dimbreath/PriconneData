@@ -352,6 +352,14 @@ INSERT INTO "story_detail" VALUES(1053005,1053,'Monika Episode 5','Monika''s Sec
 INSERT INTO "story_detail" VALUES(1053006,1053,'Monika Episode 6','Unforeseen Developments',0,0,1053005,6,105301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1053007,1053,'Monika Episode 7','Closed Eyes On Me',0,0,1053006,7,105301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1053008,1053,'Monika Episode 8','Sweet, Sweet Gratitude',0,0,1053007,8,105301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054001,1054,'Tsumugi Episode 1','Part-Timer Knight',0,0,0,0,105401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054002,1054,'Tsumugi Episode 2','Admirer''s Ploy',0,0,1054001,2,105401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054003,1054,'Tsumugi Episode 3','Secret Stage',0,0,1054002,3,105401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054004,1054,'Tsumugi Episode 4','In a Familiar Bind',0,0,1054003,4,105401,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054005,1054,'Tsumugi Episode 5','Caterpillar Catchers',0,0,1054004,5,105401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054006,1054,'Tsumugi Episode 6','Who''s Standing Behind You?',0,0,1054005,6,105401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054007,1054,'Tsumugi Episode 7','My Contrary Heart!',0,0,1054006,7,105401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1054008,1054,'Tsumugi Episode 8','Paradox Girl',0,0,1054007,8,105401,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1057001,1057,'Djeeta Episode 1','The Fledgling Skyfarer',0,0,0,0,105701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1057002,1057,'Djeeta Episode 2','Under the Twilight Sky',0,0,1057001,2,105701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1057003,1057,'Djeeta Episode 3','Together, With You',0,0,1057002,3,105701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

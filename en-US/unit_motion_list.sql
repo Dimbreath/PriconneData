@@ -44,6 +44,7 @@ INSERT INTO "unit_motion_list" VALUES(105001,1);
 INSERT INTO "unit_motion_list" VALUES(105101,1);
 INSERT INTO "unit_motion_list" VALUES(105201,1);
 INSERT INTO "unit_motion_list" VALUES(105301,1);
+INSERT INTO "unit_motion_list" VALUES(105401,1);
 INSERT INTO "unit_motion_list" VALUES(105701,1);
 INSERT INTO "unit_motion_list" VALUES(105801,1);
 INSERT INTO "unit_motion_list" VALUES(105901,1);

@@ -355,6 +355,17 @@ INSERT INTO "skill_action" VALUES(105300302,1,8,7,0,0,0.0,0.0,1.5,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(105350101,1,90,2,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(105351101,1,90,2,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(105351102,1,90,3,0,0,1.0,30.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','');
+INSERT INTO "skill_action" VALUES(105400101,1,1,1,0,0,18.0,18.0,1.44,0.0,0.0,0.0,0.0,1,1,900,3,0,99,'Deals {0} physical damage to enemies in range.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(105400102,1,3,3,1,0,-300.0,0.0,6000.0,0.0,0.0,0.0,1.0,1,1,900,4,0,1,'','');
+INSERT INTO "skill_action" VALUES(105400103,1,3,3,1,0,300.0,0.0,6000.0,0.0,0.0,0.0,1.0,1,1,900,3,0,1,'','');
+INSERT INTO "skill_action" VALUES(105400104,1,8,5,0,0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,1,1,900,3,0,99,'Renders enemies in range immobile for a set period of time.','Bind success rate + 1');
+INSERT INTO "skill_action" VALUES(105400201,1,1,1,0,0,15.0,15.0,1.2,0.0,0.0,0.0,0.0,1,1,2160,3,1,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(105400202,1,3,3,1,0,-100.0,0.0,750.0,0.0,0.0,0.0,1.0,1,1,2160,1,0,1,'','');
+INSERT INTO "skill_action" VALUES(105400301,1,1,1,0,0,2.25,2.25,0.18,0.0,0.0,0.0,0.0,1,1,700,3,0,99,'Deals {0} physical damage to enemies in range.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(105400302,1,10,101,0,0,1.0,150.0,0.0,12.0,0.0,0.0,0.0,1,1,700,3,0,99,'Reduces movement speed of enemies in range for a set period of time.','Movement speed reduction success rate + 1');
+INSERT INTO "skill_action" VALUES(105400303,1,8,1,0,0,0.9,0.0,12.0,0.0,0.0,0.0,0.0,1,1,700,3,0,99,'Reduces action speed of enemies in range for a set period of time.','Action speed reduction success rate + 1');
+INSERT INTO "skill_action" VALUES(105450101,1,90,3,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','Physical defense boost + {0}');
+INSERT INTO "skill_action" VALUES(105451101,1,90,3,0,0,1.0,32.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','Physical defense boost + {0}');
 INSERT INTO "skill_action" VALUES(105700101,1,1,1,0,0,60.0,60.0,4.8,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(105700201,1,1,1,0,0,20.0,20.0,1.6,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(105700301,1,16,1,0,0,150.0,1.5,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Recovers own TP by {0}.','TP recovery + {0}');

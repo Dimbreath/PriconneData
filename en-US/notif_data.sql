@@ -264,6 +264,12 @@ INSERT INTO "notif_data" VALUES(105301,3,'You have full stamina at the guildhous
 INSERT INTO "notif_data" VALUES(105301,4,'The guildhouse is fully stocked with EXP potions! P-perhaps they can help me grow a little taller, too...');
 INSERT INTO "notif_data" VALUES(105301,5,'The guildhouse is overflowing with Mana. You may as well take it. After all, you need it to do pretty much anything, right?');
 INSERT INTO "notif_data" VALUES(105301,6,'All items at the guildhouse are fully stocked. It appears you have some very useful supplies in there.');
+INSERT INTO "notif_data" VALUES(105401,1,'Mr. Knight! Your stamina is full! No more sitting around—let''s get moving!');
+INSERT INTO "notif_data" VALUES(105401,2,'Hey, you''ve got full skip tickets at the guildhouse! Let''s get out there and use them up as fast as we can! Oh, is that not how it works?');
+INSERT INTO "notif_data" VALUES(105401,3,'Your stamina at the guildhouse is completely full! Now I can  juggle making costumes and organizing concerts, no problem!');
+INSERT INTO "notif_data" VALUES(105401,4,'You''ve got full EXP potions at the guildhouse! Once I take my needlework to the next level, I''m going to stitch up a storm!');
+INSERT INTO "notif_data" VALUES(105401,5,'Look at all that Mana at your guildhouse! I bet you''re going to buy a present for Rei— What? For me? Wh-why would I want one?');
+INSERT INTO "notif_data" VALUES(105401,6,'All your items at the guildhouse are full! Um, hello? Mr. Knight? Are you listening to me?');
 INSERT INTO "notif_data" VALUES(105701,1,'Your stamina is maxed out again! We''re going to need to work together if we want to become top-class skyfarers!');
 INSERT INTO "notif_data" VALUES(105701,2,'You have full skip tickets at the guildhouse! Do you think traveling would be easier, too, if we could fly?');
 INSERT INTO "notif_data" VALUES(105701,3,'stamina is back to full at the guildhouse! I feel like no job is too big for us now!');

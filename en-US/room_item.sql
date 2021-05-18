@@ -175,4 +175,14 @@ INSERT INTO "room_item" VALUES(307,1,299,'Mini-Gryphon Rocking Horse',1,1,10,0,'
 INSERT INTO "room_item" VALUES(308,1,299,'Box of Surprises',1,1,10,0,'2021-04-11 23:00:00','','',600,0,0,0,300,900174);
 INSERT INTO "room_item" VALUES(309,4,902,'Kids'' Decorative Wallpaper',1,1,1,0,'2021-04-11 23:00:00','','',1200,0,0,0,600,900168);
 INSERT INTO "room_item" VALUES(310,3,901,'Kids'' Decorative Flooring',1,1,1,0,'2021-04-11 23:00:00','','',1200,0,0,0,600,900167);
+INSERT INTO "room_item" VALUES(401,1,299,'Symphonic Star Stage (Main Unit)',1,1,1,0,'2021-05-18 23:00:00','','',5000,0,0,0,2500,900187);
+INSERT INTO "room_item" VALUES(402,1,299,'Symphonic Star Stage (Side Unit)',1,1,2,0,'2021-05-18 23:00:00','','',2500,0,0,0,1250,900186);
+INSERT INTO "room_item" VALUES(403,1,202,'Top Idol Costume',1,1,10,0,'2021-05-18 23:00:00','','',300,0,0,0,150,900185);
+INSERT INTO "room_item" VALUES(404,1,204,'Rope Partition',1,1,10,0,'2021-05-18 23:00:00','','',600,0,0,0,300,900180);
+INSERT INTO "room_item" VALUES(405,1,102,'Pearly Bench',1,1,10,0,'2021-05-18 23:00:00','','',1200,0,0,0,600,900181);
+INSERT INTO "room_item" VALUES(406,2,202,'Idol Group Wall Pennant',1,1,10,0,'2021-05-18 23:00:00','','',900,0,0,0,450,900182);
+INSERT INTO "room_item" VALUES(407,1,204,'Idol Group Hanging Banner',1,1,10,0,'2021-05-18 23:00:00','','',600,0,0,0,300,900183);
+INSERT INTO "room_item" VALUES(408,1,299,'Pearly Pillar',1,1,10,0,'2021-05-18 23:00:00','','',600,0,0,0,300,900184);
+INSERT INTO "room_item" VALUES(409,4,902,'Stage Curtain Wall',1,1,1,0,'2021-05-18 23:00:00','','',1200,0,0,0,600,900179);
+INSERT INTO "room_item" VALUES(410,3,901,'Idol Dance Floor',1,1,1,0,'2021-05-18 23:00:00','','',1200,0,0,0,600,900178);
 COMMIT;
