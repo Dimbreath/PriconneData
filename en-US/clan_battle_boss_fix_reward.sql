@@ -30,4 +30,14 @@ INSERT INTO "clan_battle_boss_fix_reward" VALUES(1003107,2,90006,40,2,22002,1,0,
 INSERT INTO "clan_battle_boss_fix_reward" VALUES(1003108,2,90006,40,2,22002,1,0,0,0,0,0,0,0,0,0);
 INSERT INTO "clan_battle_boss_fix_reward" VALUES(1003109,2,90006,40,2,22002,1,0,0,0,0,0,0,0,0,0);
 INSERT INTO "clan_battle_boss_fix_reward" VALUES(1003110,2,90006,40,2,22003,1,0,0,0,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004101,8,91002,40,2,90006,40,2,22002,1,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004102,8,91002,60,2,90006,50,2,22002,2,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004103,8,91002,80,2,90006,60,2,22002,3,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004104,8,91002,100,2,90006,80,2,22002,4,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004105,8,91002,200,2,90006,150,2,22003,2,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004106,2,90006,40,2,22002,1,0,0,0,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004107,2,90006,40,2,22002,1,0,0,0,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004108,2,90006,40,2,22002,1,0,0,0,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004109,2,90006,40,2,22002,1,0,0,0,0,0,0,0,0,0);
+INSERT INTO "clan_battle_boss_fix_reward" VALUES(1004110,2,90006,40,2,22003,1,0,0,0,0,0,0,0,0,0);
 COMMIT;
