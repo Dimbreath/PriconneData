@@ -9,4 +9,8 @@ INSERT INTO "hatsune_description" VALUES(6,10002,1,'The Victory Medal Exchange i
 INSERT INTO "hatsune_description" VALUES(7,10003,1,'This event features a special story.\nNew episodes will be unlocked as you progress through the event quests.');
 INSERT INTO "hatsune_description" VALUES(8,10003,1,'Progress through enough quests, and you will reach a boss.\nYou can do battle with the boss by spending Boss Tickets.\nDefeating a boss will earn you many Victory Medals, so do your best.');
 INSERT INTO "hatsune_description" VALUES(9,10003,1,'The Victory Medal Exchange is an opportunity to obtain rewards.\nAmong these rewards are Memory Shards for characters related to\nthe event. Try to collect plenty of them to unlock new party members!');
+INSERT INTO "hatsune_description" VALUES(10,10004,1,'This event features a special story.\nNew episodes will be unlocked as you progress through the event quests.');
+INSERT INTO "hatsune_description" VALUES(11,10004,1,'In this event, you can unlock an exclusive character\nas a mission reward.\nTry to complete the relevant mission before the event ends.');
+INSERT INTO "hatsune_description" VALUES(12,10004,1,'This event features a powerful Very Hard difficulty boss.\nIt can only be defeated once each day.\nYou will need to prepare well if you hope to conquer it.');
+INSERT INTO "hatsune_description" VALUES(13,10004,1,'The Victory Medal Exchange is an opportunity to obtain rewards.\nAmong these rewards are Memory Shards for characters related to\nthe event. Try to collect plenty of them to unlock new party members!');
 COMMIT;

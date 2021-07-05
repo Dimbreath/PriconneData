@@ -50,4 +50,7 @@ INSERT INTO "unit_motion_list" VALUES(105801,1);
 INSERT INTO "unit_motion_list" VALUES(105901,1);
 INSERT INTO "unit_motion_list" VALUES(106001,1);
 INSERT INTO "unit_motion_list" VALUES(106301,1);
+INSERT INTO "unit_motion_list" VALUES(107501,1);
+INSERT INTO "unit_motion_list" VALUES(107601,1);
+INSERT INTO "unit_motion_list" VALUES(107701,1);
 COMMIT;

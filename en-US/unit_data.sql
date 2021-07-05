@@ -58,9 +58,13 @@ INSERT INTO "unit_data" VALUES(106001,'Karyl','Karyl',106001,1,7,7,450,750,2,2.0
 INSERT INTO "unit_data" VALUES(106301,'Arisa','Arisa',106301,3,8,8,450,625,1,1.97,106301,0,1,0,'[Physical] An aspiring forest guardian who excels at drawn-out\nbattles from the rearguard. TP recovery allows quick\nuse of her Union Burst, which also boosts skill effects\nfor greater attack power.',0,'2021/02/17 23:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(106801,'Labyrista','Labyrista',106801,1,0,0,0,0,0,0.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(107101,'Christina','Christina',107101,3,10,4,450,290,1,2.0,0,0,2,0,'[Physical] The peerless Regina Geas who exerts her dominance from the front lines. Her terrifyingly destructive Union Burst annihilates foes while also protecting her from harm, and thanks to a TP-boosting skill, she uses it with alarming frequency.',0,'2019/02/15 23:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(107501,'Pecorine (Summer)','Pecorine',107501,3,5,5,450,235,1,2.125,107501,0,1,0,'[Physical] The gourmet princess of the beach who dishes out damage to crowds from the vanguard. With the help of a little shaved ice, she can boost her physical attack dramatically and wipe out the enemy with a powerful Union Burst.',0,'2021/06/03 23:00:00','2021/06/22 22:59:59');
+INSERT INTO "unit_data" VALUES(107601,'Kokkoro (Summer)','Kokkoro',107601,1,6,6,450,535,1,2.34,107601,0,1,0,'[Physical] A healing priestess who supports physical characters from the midguard. With her ability to massively heal the party member with the lowest HP, she can bring allies back from the brink of death in an instant.',1,'2021/06/03 23:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(107701,'Suzume (Summer)','Suzume',107701,3,7,7,450,775,2,2.07,107701,0,3,0,'[Magical] A clumsy maid who offers support from the rearguard. She boosts allies'' defenses and provides HP regen, while also summoning golems to protect them.',0,'2021/06/22 23:00:00','2021/07/09 22:59:59');
 INSERT INTO "unit_data" VALUES(190801,'Karin','Karin',190801,1,1,1,0,0,1,0.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(403101,'Skull','Skull',403101,1,0,1,450,300,1,2.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(404201,'Sylph','Sylph',404201,1,0,1,450,1000,2,2.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(407701,'Mini-Golem','Mini-Golem',407701,1,0,1,450,95,1,3.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(408401,'Sylph','Sylph',408401,1,0,1,450,700,2,2.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(408402,'Sylph','Sylph',408402,1,0,1,450,750,2,2.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(408403,'Sylph','Sylph',408403,1,0,1,450,800,2,2.0,0,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
@@ -83,4 +87,7 @@ INSERT INTO "unit_data" VALUES(904401,'Illya','Illya',904401,3,3,3,450,900,2,1.4
 INSERT INTO "unit_data" VALUES(905801,'Pecorine','Pecorine',105801,1,0,5,600,200,1,2.5,105801,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(905901,'Kokkoro','Kokkoro',105901,1,6,6,600,400,1,2.0,105901,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 INSERT INTO "unit_data" VALUES(905902,'Kokkoro','Kokkoro',105901,1,6,6,600,800,1,2.0,105901,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(907501,'Pecorine','Pecorine',907501,1,0,5,600,200,1,2.5,105801,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(907701,'Suzume','Suzume',907701,1,7,7,600,450,2,2.25,102501,0,0,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
+INSERT INTO "unit_data" VALUES(907801,'Karyl','Karyl',907801,1,7,7,450,750,2,2.07,0,0,1,0,'',0,'2015/04/01 15:00:00','2030/12/31 15:00:00');
 COMMIT;

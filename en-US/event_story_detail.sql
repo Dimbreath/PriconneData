@@ -24,4 +24,12 @@ INSERT INTO "event_story_detail" VALUES(5003004,5003,'Episode 4','In Search of a
 INSERT INTO "event_story_detail" VALUES(5003005,5003,'Episode 5','A Brush With the Legend',0,0,5003004,0,0,0,0,8,91002,20,2,31010,1,0,0,0,'2021/04/28 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5003006,5003,'Episode 6','Our Dear Vampire',0,0,5003005,0,0,0,55003006,8,91002,20,2,31017,1,0,0,0,'2021/04/28 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5003007,5003,'Ending','An Udon Party For All',0,0,5003006,0,0,0,0,8,91002,20,2,31010,1,0,0,0,'2021/04/28 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004000,5004,'Opening','The Tantalizing Tropical Tour Begins!',0,0,0,0,0,0,0,8,91002,20,2,31028,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004001,5004,'Episode 1','A Midsummer Day''s Disappearance',0,0,0,0,0,0,0,8,91002,20,2,31076,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004002,5004,'Episode 2','And That''s When She Saw It!',0,0,5004001,0,0,0,0,8,91002,20,2,31028,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004003,5004,'Episode 3','The Beachside Council',0,0,5004002,0,0,0,0,8,91002,20,2,31076,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004004,5004,'Episode 4','The Diving Mission',0,0,5004003,0,0,0,0,8,91002,20,2,31028,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004005,5004,'Episode 5','The Sunken Ruins',0,0,5004004,0,0,0,55004005,8,91002,20,2,31076,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004006,5004,'Episode 6','Operation Gourmet Guild',0,0,5004005,0,0,0,0,8,91002,20,2,31028,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5004007,5004,'Ending','Monster on the Barbie',0,0,5004006,0,0,0,0,8,91002,20,2,31076,1,0,0,0,'2021/06/03 23:00:00','2030/12/31 14:59:59');
 COMMIT;

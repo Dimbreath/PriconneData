@@ -98,4 +98,8 @@ INSERT INTO "goldset_data_teamlevel" VALUES(95,95,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(96,96,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(97,97,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(98,98,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(99,99,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(100,100,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(101,101,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(102,102,0);
 COMMIT;

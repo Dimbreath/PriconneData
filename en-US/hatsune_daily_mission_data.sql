@@ -6,4 +6,6 @@ INSERT INTO "hatsune_daily_mission_data" VALUES(61002001,101,601,'Battle Alma 1 
 INSERT INTO "hatsune_daily_mission_data" VALUES(61002002,102,601,'Clear 10 event quests',9004,0,0,0,10,61002002,6004,10002,'2021/03/22 23:00:00','2021/04/11 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61003001,101,601,'Battle Garoog 1 time (NORMAL/HARD)',9012,0,0,0,1,61003001,6008,10003,'2021/04/28 23:00:00','2021/05/18 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61003002,102,601,'Clear 10 event quests',9004,0,0,0,10,61003002,6004,10003,'2021/04/28 23:00:00','2021/05/18 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61004001,101,601,'Battle Tentapus 1 time (Any Difficulty)',9012,0,0,0,1,61004001,6008,10004,'2021/06/03 23:00:00','2021/06/22 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61004002,102,601,'Clear 10 event quests',9004,0,0,0,10,61004002,6004,10004,'2021/06/03 23:00:00','2021/06/22 22:59:59');
 COMMIT;

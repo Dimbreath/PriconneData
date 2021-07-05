@@ -50,4 +50,7 @@ INSERT INTO "unlock_unit_condition" VALUES(105801,'Pecorine',1,0,1,2,31058,15,0,
 INSERT INTO "unlock_unit_condition" VALUES(105901,'Kokkoro',1,0,1,2,31059,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(106001,'Karyl',1,0,1,2,31060,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(106301,'Arisa',1,0,1,2,31063,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(107501,'Pecorine (Summer)',1,0,1,2,31075,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(107601,'Kokkoro (Summer)',1,0,1,2,31076,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(107701,'Suzume (Summer)',1,0,1,2,31077,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 COMMIT;

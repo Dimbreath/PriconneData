@@ -62,4 +62,5 @@ INSERT INTO "gift_message" VALUES(9700,'Ranking reward earned in Attack of the R
 INSERT INTO "gift_message" VALUES(9701,'Attack reward earned in Attack of the Robo Lima!',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9800,'A present in celebration of a character’s birthday.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9801,'Celebrating 100 wonderful days!',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9802,'Celebrating 150K Social Media Followers!',0,0,0,0);
 COMMIT;

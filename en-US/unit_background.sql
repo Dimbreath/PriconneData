@@ -58,4 +58,7 @@ INSERT INTO "unit_background" VALUES(106001,'Karyl',500130,'Esterella Road',0.0,
 INSERT INTO "unit_background" VALUES(106301,'Arisa',500170,'Mysterion Woods',0.0,3);
 INSERT INTO "unit_background" VALUES(106801,'Akira Mosakuji',500030,'Landosol - Business District',0.0,2);
 INSERT INTO "unit_background" VALUES(107101,'Christina Morgan',500090,'Landosol - Palace Entrance',0.0,2);
+INSERT INTO "unit_background" VALUES(107501,'Pecorine (Summer)',500164,'Marjan Coast',0.0,4);
+INSERT INTO "unit_background" VALUES(107601,'Kokkoro (Summer)',500164,'Marjan Coast',0.0,4);
+INSERT INTO "unit_background" VALUES(107701,'Suzume (Summer)',500164,'Marjan Coast',0.0,4);
 COMMIT;

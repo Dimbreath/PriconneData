@@ -1,3 +1,4 @@
 BEGIN TRANSACTION;
 CREATE TABLE 'hatsune_unlock_unit_condition' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'description_1' TEXT NOT NULL, 'description_2' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO "hatsune_unlock_unit_condition" VALUES(1,107601,10004,71004025,'Defeat the boss\n{0}× more to unlock!','[3C404E]Play the event and take on the boss!\nDefeat it enough times\nto unlock an exclusive character![-]','[3C404E]Unlock by defeating the boss on any difficulty!\n[FFBB00,CE4F00]{0}[-] more times to go![-]');
 COMMIT;

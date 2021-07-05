@@ -8,4 +8,6 @@ INSERT INTO "clan_battle_map_data" VALUES(5,1003,710031,1,1,1,1003001,1,1,1);
 INSERT INTO "clan_battle_map_data" VALUES(6,1003,710031,1,2,-1,1003002,2,1,1);
 INSERT INTO "clan_battle_map_data" VALUES(7,1004,710041,1,1,1,1004001,1,1,1);
 INSERT INTO "clan_battle_map_data" VALUES(8,1004,710041,1,2,-1,1004002,2,1,1);
+INSERT INTO "clan_battle_map_data" VALUES(9,1005,710051,1,1,1,1005001,1,1,1);
+INSERT INTO "clan_battle_map_data" VALUES(10,1005,710051,1,2,-1,1005002,2,1,1);
 COMMIT;

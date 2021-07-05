@@ -18,5 +18,6 @@ INSERT INTO "clan_invite_level_group" VALUES(15,81,85);
 INSERT INTO "clan_invite_level_group" VALUES(16,86,90);
 INSERT INTO "clan_invite_level_group" VALUES(17,91,95);
 INSERT INTO "clan_invite_level_group" VALUES(18,96,100);
-INSERT INTO "clan_invite_level_group" VALUES(19,101,-1);
+INSERT INTO "clan_invite_level_group" VALUES(19,101,105);
+INSERT INTO "clan_invite_level_group" VALUES(20,106,-1);
 COMMIT;

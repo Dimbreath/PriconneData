@@ -9,4 +9,7 @@ INSERT INTO "odds_name_data" VALUES(6,'1000220101','Misogi''s Memory Shard',9900
 INSERT INTO "odds_name_data" VALUES(7,'1000220102','Mimi''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(8,'1000320101','Maho''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(9,'1000320102','Kaori''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(10,'1000420101','Kokkoro (Summer)''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(11,'1000420102','Saren''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(12,'eq_rank_5-8','Rank 5~8 Equipment',99002,'Equipment required for characters at ranks 5~8.');
 COMMIT;

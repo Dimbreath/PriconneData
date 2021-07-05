@@ -58,4 +58,7 @@ INSERT INTO "unit_profile" VALUES(106001,'Karyl','14','Gourmet Guild','beastfolk
 INSERT INTO "unit_profile" VALUES(106301,'Arisa','15','???','elvenfolk','155','42','6','17','O','collecting pretty leaves','Kana Yuki',0,'A young elf striving to become a forest guardian','','');
 INSERT INTO "unit_profile" VALUES(106801,'Labyrista','??','Labyrinth','humanfolk','???','??','?','?','?','people watching','Miyuki Sawashiro',0,'？？？？？？？','','3');
 INSERT INTO "unit_profile" VALUES(107101,'Christina','27','Nightmare, Defenders of the Throne','humanfolk','165','??','2','7','O','fighting strong opponents','Chiaki Takahashi',0,'The audacious vice-captain of Nightmare','','8');
+INSERT INTO "unit_profile" VALUES(107501,'Pecorine (Summer)','17','Gourmet Guild','humanfolk','156','46','3','31','O','eating, cooking','M・A・O',0,'A girl who''s always cheerful and hungry','U-umm... You wouldn''t happen to have any food, would you?\nI think I''m almost at my limit here...','1');
+INSERT INTO "unit_profile" VALUES(107601,'Kokkoro (Summer)','11','Gourmet Guild','elvenfolk','140','35','5','11','B','meditating, raising plants and animals','Miku Ito',0,'A little guide who takes care of her lord','','1');
+INSERT INTO "unit_profile" VALUES(107701,'Suzume (Summer)','15','Sarendia Orphanage','humanfolk','154','43','12','12','O','serving others','Aoi Yuki',0,'A clumsy maid who works hard for her mistress','Urgh... I blew up the kitchen again. I''m so sorry. I don''t deserve to call myself a maid...','9');
 COMMIT;

@@ -50,6 +50,9 @@ INSERT INTO "story_data" VALUES(1058,1,1058,'Pecorine',0,36,'2015/04/01 15:00:00
 INSERT INTO "story_data" VALUES(1059,1,1059,'Kokkoro',0,18,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1060,1,1060,'Karyl',0,13,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1063,1,1063,'Arisa',0,6,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1075,1,1075,'Pecorine (Summer)',0,61,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1076,1,1076,'Kokkoro (Summer)',0,62,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1077,1,1077,'Suzume (Summer)',0,63,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1900,1,1900,'Ameth',0,90,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2000,2,0,'Prologue_First Connections',2000002,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2001,2,0,'Chapter 1_A Mysterious Girl',2001005,2,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
@@ -58,6 +61,7 @@ INSERT INTO "story_data" VALUES(2003,2,0,'Chapter 3_Lurking Shadows',2003005,4,'
 INSERT INTO "story_data" VALUES(2004,2,0,'Chapter 4_Pastures in Peril',2004005,5,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2005,2,0,'Chapter 5_The Seven Crowns',2005006,6,'2021/02/17 23:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2006,2,0,'Chapter 6_Forgotten Princess',2006013,7,'2021/04/11 13:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(2007,2,0,'Chapter 7_Calamity Foretold',2007012,8,'2021/06/12 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
